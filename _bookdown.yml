@@ -1,0 +1,35 @@
+
+book_filename: "consciousness-before-life"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+new_session: false
+output_dir: "_book"
+rmd_files:
+  - index.Rmd
+  - 01-part1-framing.Rmd
+  - 02-what-is-life.Rmd
+  - 03-what-is-consciousness.Rmd
+  - 04-part2-history.Rmd
+  - 05-ancient-classical.Rmd
+  - 06-eastern-traditions.Rmd
+  - 07-modern-philosophy.Rmd
+  - 08-part3-origin-life.Rmd
+  - 09-origin-life-models.Rmd
+  - 10-information-complexity.Rmd
+  - 11-part4-scientific-consciousness.Rmd
+  - 12-emergentist-models.Rmd
+  - 13-contemporary-theories.Rmd
+  - 14-part5-consciousness-first.Rmd
+  - 15-consciousness-first-theories.Rmd
+  - 16-consciousness-enabled-life.Rmd
+  - 17-part6-life-produced-consciousness.Rmd
+  - 18-evolution-consciousness.Rmd
+  - 19-part7-ai.Rmd
+  - 20-artificial-consciousness.Rmd
+  - 21-part8-open-questions.Rmd
+  - 22-limits-testability.Rmd
+  - 23-unified-perspective.Rmd
+  - 24-glossary.Rmd
+  - 25-references.Rmd

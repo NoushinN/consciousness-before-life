@@ -1,0 +1,29 @@
+
+---
+title: "Which Came First: Consciousness or Life?"
+author: "Arash Kanani"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [references.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Exploring scientific, philosophical, and metaphysical theories on whether consciousness emerged from life — or preceded it."
+---
+
+# Preface {-}
+
+This book explores one of the deepest interdisciplinary questions:
+
+> Did consciousness emerge from life, or did consciousness in some form precede biological life itself?
+
+The discussion spans biology, neuroscience, philosophy, complexity science, artificial intelligence, physics, and metaphysical traditions.
+
+# Introduction
+
+This project aims to critically compare competing perspectives on:
+- the nature of life
+- the nature of consciousness
+- emergence and complexity
+- scientific and philosophical explanations
+- consciousness-first and life-first frameworks
