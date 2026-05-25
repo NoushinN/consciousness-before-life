@@ -6,7 +6,7 @@ language:
 
 delete_merged_file: true
 new_session: false
-output_dir: "_book"
+output_dir: "docs"
 
 rmd_files:
   - index.Rmd
