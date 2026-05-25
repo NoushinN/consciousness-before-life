@@ -1,9 +1,9 @@
 
-# What Is Life?
+# Artificial Life and Machine Consciousness
 
 ## Chapter Purpose
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+Explore whether artificial intelligence, synthetic biology, or digital systems could develop consciousness.
 
 ## Suggested Topics
 

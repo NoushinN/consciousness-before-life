@@ -1,9 +1,9 @@
 
-# What Is Life?
+# Glossary
 
 ## Chapter Purpose
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+Provide concise definitions of key scientific, philosophical, and consciousness-related terms used throughout the book.
 
 ## Suggested Topics
 

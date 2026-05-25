@@ -3,33 +3,49 @@ book_filename: "consciousness-before-life"
 language:
   ui:
     chapter_name: "Chapter "
+
 delete_merged_file: true
 new_session: false
 output_dir: "_book"
+
 rmd_files:
   - index.Rmd
-  - 01-part1-framing.Rmd
+
+  - part-01-framing.Rmd
+  - 01-the-fundamental-question.Rmd
   - 02-what-is-life.Rmd
   - 03-what-is-consciousness.Rmd
-  - 04-part2-history.Rmd
-  - 05-ancient-classical.Rmd
-  - 06-eastern-traditions.Rmd
-  - 07-modern-philosophy.Rmd
-  - 08-part3-origin-life.Rmd
-  - 09-origin-life-models.Rmd
-  - 10-information-complexity.Rmd
-  - 11-part4-scientific-consciousness.Rmd
-  - 12-emergentist-models.Rmd
-  - 13-contemporary-theories.Rmd
-  - 14-part5-consciousness-first.Rmd
-  - 15-consciousness-first-theories.Rmd
-  - 16-consciousness-enabled-life.Rmd
-  - 17-part6-life-produced-consciousness.Rmd
-  - 18-evolution-consciousness.Rmd
-  - 19-part7-ai.Rmd
-  - 20-artificial-consciousness.Rmd
-  - 21-part8-open-questions.Rmd
-  - 22-limits-testability.Rmd
-  - 23-unified-perspective.Rmd
-  - 24-glossary.Rmd
-  - 25-references.Rmd
+
+  - part-02-history-philosophy.Rmd
+  - 04-ancient-classical.Rmd
+  - 05-eastern-traditions.Rmd
+  - 06-modern-philosophy.Rmd
+
+  - part-03-origin-life.Rmd
+  - 07-origin-life-models.Rmd
+  - 08-information-complexity.Rmd
+
+  - part-04-scientific-consciousness.Rmd
+  - 09-emergentist-models.Rmd
+  - 10-contemporary-theories.Rmd
+
+  - part-05-consciousness-first.Rmd
+  - 11-consciousness-first-theories.Rmd
+  - 12-consciousness-enabled-life.Rmd
+
+  - part-06-life-produced-consciousness.Rmd
+  - 13-evolution-consciousness.Rmd
+
+  - part-07-ai-consciousness.Rmd
+  - 14-artificial-consciousness.Rmd
+
+  - part-08-open-questions.Rmd
+  - 15-limits-testability.Rmd
+  - 16-unified-perspective.Rmd
+
+  - 17-glossary.Rmd
+  - 18-timeline-major-theories.Rmd
+  - 19-comparison-tables.Rmd
+  - 20-key-philosophical-terms.Rmd
+  - 21-consciousness-taxonomy.Rmd
+  - 22-references.Rmd

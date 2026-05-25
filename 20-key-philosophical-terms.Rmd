@@ -1,9 +1,9 @@
 
-# What Is Life?
+# Key Philosophical Terms
 
 ## Chapter Purpose
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+Explain important philosophical concepts such as ontology, epistemology, dualism, idealism, reductionism, and phenomenology.
 
 ## Suggested Topics
 

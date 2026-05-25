@@ -1,9 +1,9 @@
 
-# What Is Life?
+# Scientific Theories of the Origin of Life
 
 ## Chapter Purpose
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+Review abiogenesis theories including RNA world, hydrothermal vents, metabolism-first models, autocatalytic systems, and LUCA.
 
 ## Suggested Topics
 

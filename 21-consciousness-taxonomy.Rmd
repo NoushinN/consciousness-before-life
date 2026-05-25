@@ -1,9 +1,9 @@
 
-# What Is Life?
+# Consciousness Taxonomy
 
 ## Chapter Purpose
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+Classify major approaches to consciousness, including biological, computational, information-based, quantum, and metaphysical models.
 
 ## Suggested Topics
 

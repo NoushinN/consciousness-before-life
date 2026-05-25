@@ -1,20 +1,8 @@
 
 bookdown::gitbook:
   css: style.css
-  split_by: chapter
-  config:
-    toc:
-      collapse: subsection
-      before: |
-        <li><a href="./">Which Came First: Consciousness or Life?</a></li>
-    download: ["pdf", "epub"]
-    sharing:
-      github: yes
-      facebook: no
-      twitter: no
 
 bookdown::pdf_book:
   latex_engine: xelatex
-  citation_package: natbib
 
 bookdown::epub_book: default
