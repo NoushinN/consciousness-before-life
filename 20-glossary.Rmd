@@ -1,0 +1,54 @@
+# (APPENDIX) Appendices {-}
+
+# Glossary {#glossary}
+
+## Purpose
+
+A reference glossary of key terms used throughout the book, organized alphabetically.
+
+---
+
+## Terms
+
+- **Abiogenesis**: the natural process of life arising from non-living matter
+- **Access consciousness**: information available for reasoning, reporting, and behaviour control
+- **Active inference**: a corollary of the Free Energy Principle; organisms act to confirm their predictions
+- **Anthropic principle**: the observation that the universe's parameters appear fine-tuned for conscious life
+- **Assembly theory**: a framework measuring molecular complexity via the number of assembly steps
+- **Attention Schema Theory (AST)**: consciousness as the brain's model of its own attention process
+- **Autocatalytic set**: a collection of molecules that collectively catalyze each other's formation
+- **Autopoiesis**: self-production; a system that continuously regenerates itself
+- **Basal cognition**: cognitive capacities in organisms without nervous systems
+- **Biosemiotics**: the study of signs and meaning-making in living systems
+- **Combination problem**: the challenge of explaining how micro-experiences combine into macro-experience
+- **Cosmopsychism**: the view that the universe as a whole is the fundamental conscious entity
+- **Dissipative structure**: an organized system maintained by energy flow far from equilibrium
+- **Dual-aspect monism**: one substance with both mental and physical aspects
+- **Emergence**: the appearance of novel properties at higher levels of organization
+- **Explanatory gap**: the difficulty of explaining why physical processes give rise to experience
+- **Free Energy Principle (FEP)**: all living systems minimize surprise by updating internal models
+- **Global Workspace Theory (GWT)**: consciousness as global information broadcast in the brain
+- **Hard problem**: why and how physical processes give rise to subjective experience
+- **Hylozoism**: the ancient view that all matter is alive
+- **Idealism**: only mind or consciousness exists; matter is appearance
+- **Integrated Information Theory (IIT)**: consciousness as integrated information (Φ)
+- **Intentionality**: the "aboutness" of mental states
+- **Nagel's question**: "What is it like to be a bat?" — the question of phenomenal consciousness
+- **Neural correlates of consciousness (NCCs)**: minimal neural mechanisms for specific conscious experiences
+- **Neutral monism**: mind and matter are both manifestations of a more fundamental substance
+- **Neurophenomenology**: bridging first-person experience with third-person neuroscience
+- **Panpsychism**: consciousness as a fundamental and ubiquitous feature of reality
+- **Phenomenal consciousness**: subjective experience; "what it is like"
+- **Phi (Φ)**: the measure of integrated information in IIT
+- **Physicalism**: everything is physical; consciousness is a physical phenomenon
+- **Predictive processing**: the brain as a prediction machine that minimizes prediction error
+- **Proto-consciousness**: a minimal, pre-reflective form of experience
+- **Qualia**: the subjective qualities of conscious experience
+- **Recurrent processing**: neural feedback loops proposed as the basis of consciousness
+- **Russellian monism**: consciousness as the intrinsic nature of physical structure
+- **Self-organization**: spontaneous emergence of order without external direction
+- **Sentience**: the capacity for subjective experience, especially suffering
+- **Strange loop**: a self-referential hierarchical system (Hofstadter)
+- **Substance dualism**: mind and body are fundamentally different substances
+
+[Add additional terms as chapters are written]

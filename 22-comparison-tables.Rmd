@@ -1,0 +1,60 @@
+# Comparison Tables {#comparison-tables}
+
+## Purpose
+
+Side-by-side comparisons of major theories discussed in the book, organized by key dimensions.
+
+---
+
+## Table 1: Consciousness Theories Compared
+
+| Theory | Type | Consciousness Is... | Scope | Testable? | Implies for Life-Consciousness |
+|--------|------|---------------------|-------|-----------|-------------------------------|
+| GWT | Scientific | Global information broadcast | Brains with global workspace | Yes | Life first |
+| IIT | Scientific/philosophical | Integrated information (Φ) | Any system with Φ > 0 | Partially | Co-emergence / panpsychism |
+| FEP | Scientific | Byproduct of free energy minimization | All living systems | Partially | Co-emergence |
+| AST | Scientific | Model of attention | Any system with attention schema | Yes | Substrate-independent |
+| RPT | Scientific | Recurrent neural processing | Nervous systems with feedback | Yes | Life first |
+| Orch-OR | Speculative/scientific | Quantum gravitational collapse | Microtubule-containing systems | Partially | Consciousness fundamental |
+| Panpsychism | Philosophical | Fundamental property of matter | All matter | No (currently) | Consciousness first |
+| Idealism | Philosophical | The only reality | Everything | No (currently) | Consciousness first |
+| Emergentism | Philosophical | Emergent property of complexity | Complex brains | Indirectly | Life first |
+
+## Table 2: Origin of Life Models and Consciousness Implications
+
+| Model | Key Mechanism | Implies Agency? | Consciousness Relevance |
+|-------|---------------|----------------|------------------------|
+| RNA World | Self-replicating RNA | Minimal | Low — purely chemical |
+| Metabolism-First | Self-sustaining chemical cycles | Moderate | Moderate — self-organization |
+| Protocells | Lipid compartmentalization | Moderate | Moderate — self/non-self boundary |
+| Autocatalytic Sets | Collective catalysis | Moderate | Moderate — systemic self-maintenance |
+| Dissipative Structures | Energy-driven organization | Moderate | Moderate — thermodynamic agency |
+| Assembly Theory | Molecular complexity | Low | Low — detection, not explanation |
+| Autopoiesis | Self-production | High | High — implies minimal cognition |
+
+## Table 3: Where Each Theory Places the Transition
+
+| Theory | Transition Point | Gradual or Sudden? | Earliest Conscious Entity |
+|--------|------------------|--------------------|--------------------------|
+| GWT | Global workspace architecture | Sudden | Complex-brained animals |
+| IIT | Φ > 0 | Gradual | Possibly any integrated system |
+| FEP | Any free-energy-minimizing system | Gradual | All living systems |
+| RPT | Recurrent processing | Sudden | Animals with recurrent circuits |
+| Orch-OR | Quantum coherence in microtubules | Sudden | Organisms with microtubules |
+| Panpsychism | Always present | N/A | All matter |
+| Emergentism | Sufficient complexity | Sudden | Complex nervous systems |
+
+## Table 4: Philosophical Frameworks Compared
+
+| Framework | Mind-Matter Relation | Life-Consciousness Relation | Key Proponent |
+|-----------|---------------------|----------------------------|---------------|
+| Substance Dualism | Separate substances | Separate questions | Descartes |
+| Physicalism | Mind = physical | Life first | Smart, Armstrong |
+| Functionalism | Mind = function | Substrate-independent | Putnam, Fodor |
+| Panpsychism | Mind in all matter | Consciousness first/co-emergence | Strawson, Goff |
+| Idealism | Only mind exists | Consciousness first | Berkeley, Kastrup |
+| Neutral Monism | Both from a third thing | Co-emergence | Russell, James |
+| Dual-Aspect Monism | Two aspects of one | Co-emergence | Spinoza, Pauli-Jung |
+| Process Philosophy | Experience is fundamental | Co-emergence | Whitehead |
+
+[Additional tables can be added as the book develops]

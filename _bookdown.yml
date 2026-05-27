@@ -1,51 +1,60 @@
-
-book_filename: "consciousness-before-life"
+book_filename: "life-and-mind"
+output_dir: docs
+delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
 
-delete_merged_file: true
-new_session: false
-output_dir: "docs"
-
 rmd_files:
   - index.Rmd
 
+  # Part I: Framing the Problem
   - part-01-framing.Rmd
   - 01-the-fundamental-question.Rmd
   - 02-what-is-life.Rmd
   - 03-what-is-consciousness.Rmd
 
+  # Part II: Historical and Philosophical Roots
   - part-02-history-philosophy.Rmd
   - 04-ancient-classical.Rmd
   - 05-eastern-traditions.Rmd
   - 06-modern-philosophy.Rmd
 
+  # Part III: The Origin of Life
   - part-03-origin-life.Rmd
   - 07-origin-life-models.Rmd
-  - 08-information-complexity.Rmd
+  - 08-information-complexity-self-organization.Rmd
 
+  # Part IV: Scientific Theories of Consciousness
   - part-04-scientific-consciousness.Rmd
   - 09-emergentist-models.Rmd
   - 10-contemporary-theories.Rmd
 
+  # Part V: Consciousness First?
   - part-05-consciousness-first.Rmd
   - 11-consciousness-first-theories.Rmd
   - 12-consciousness-enabled-life.Rmd
+  - 13-quantum-speculative-frameworks.Rmd
 
+  # Part VI: Life Produced Consciousness?
   - part-06-life-produced-consciousness.Rmd
-  - 13-evolution-consciousness.Rmd
+  - 14-evolution-of-consciousness.Rmd
+  - 15-hard-transition.Rmd
 
+  # Part VII: Artificial Intelligence and Consciousness
   - part-07-ai-consciousness.Rmd
-  - 14-artificial-consciousness.Rmd
+  - 16-artificial-consciousness.Rmd
 
+  # Part VIII: Open Questions and Synthesis
   - part-08-open-questions.Rmd
-  - 15-limits-testability.Rmd
-  - 16-unified-perspective.Rmd
+  - 17-limits-testability.Rmd
+  - 18-ethics-moral-status.Rmd
+  - 19-unified-perspective.Rmd
 
-  - 17-glossary.Rmd
-  - 18-timeline-major-theories.Rmd
-  - 19-comparison-tables.Rmd
-  - 20-key-philosophical-terms.Rmd
-  - 21-consciousness-taxonomy.Rmd
-  - 22-references.Rmd
+  # Appendices
+  - 20-glossary.Rmd
+  - 21-timeline-major-theories.Rmd
+  - 22-comparison-tables.Rmd
+  - 23-key-philosophical-terms.Rmd
+  - 24-consciousness-taxonomy.Rmd
+  - 25-references.Rmd

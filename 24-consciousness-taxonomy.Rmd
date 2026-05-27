@@ -1,0 +1,79 @@
+# Consciousness Taxonomy {#consciousness-taxonomy}
+
+## Purpose
+
+A structured classification of types, levels, and theories of consciousness referenced throughout the book.
+
+---
+
+## Part 1: Types of Consciousness
+
+### By Philosophical Category
+
+| Type | Definition | Key Theorist |
+|------|-----------|--------------|
+| Phenomenal consciousness | Subjective experience; "what it is like" | Nagel, Chalmers |
+| Access consciousness | Information available for reasoning and report | Block |
+| Self-consciousness | Awareness of being aware | Rosenthal |
+| Proto-consciousness | Minimal, pre-reflective experience | Feinberg, Mallatt |
+| Cosmic consciousness | Universe-level awareness | Cosmopsychists |
+
+### By Biological Level
+
+| Level | Examples | Evidence for Consciousness |
+|-------|----------|---------------------------|
+| Molecular | Chemical reactions, microtubules | Speculative (Orch-OR) |
+| Unicellular | Bacteria, protists | Basal cognition, chemotaxis |
+| Plant | Root networks, chemical signaling | Debated |
+| Invertebrate | Insects, cephalopods | Behavioural, neural evidence |
+| Vertebrate | Fish, birds, mammals | Strong behavioural and neural evidence |
+| Primate/Human | Self-reflection, language, theory of mind | First-person reports |
+| Artificial | AI, robots | Unknown/debated |
+
+## Part 2: Levels and Dimensions
+
+### Graded Dimensions of Consciousness
+
+- Wakefulness: from deep sleep to full alertness
+- Awareness: from no awareness to rich phenomenal experience
+- Self-awareness: from no self-model to reflective self-consciousness
+- Temporal depth: from immediate response to planning and memory
+- Intentional complexity: from simple aboutness to nested intentionality
+
+### States of Consciousness
+
+| State | Wakefulness | Awareness | Self-Awareness |
+|-------|-------------|-----------|----------------|
+| Deep sleep | Low | Low | None |
+| Dreaming | Low | Moderate | Variable |
+| Waking | High | High | High |
+| Flow state | High | High | Low |
+| Meditation | Variable | High | Variable |
+| Anaesthesia | None | None | None |
+| Coma | None | None/minimal | None |
+| Locked-in syndrome | High | High | High |
+
+## Part 3: Theory Classification
+
+### By Ontological Commitment
+
+| Category | Theories | Core Claim |
+|----------|----------|------------|
+| Physicalist | GWT, RPT, AST, Emergentism | Consciousness arises from physical processes |
+| Panpsychist | IIT (some readings), Russellian Monism | Consciousness is fundamental |
+| Idealist | Analytic Idealism | Only consciousness exists |
+| Dualist | Property Dualism | Consciousness is non-physical but depends on the physical |
+| Neutral Monist | Dual-Aspect Monism | Both arise from a deeper reality |
+
+### By Mechanism
+
+| Mechanism Type | Theories | Key Mechanism |
+|----------------|----------|---------------|
+| Computational | GWT, AST | Information broadcast, attention modeling |
+| Informational | IIT | Information integration |
+| Biological | Biological Naturalism, Neurobiological | Specific brain processes |
+| Quantum | Orch-OR, Stapp | Quantum processes |
+| Thermodynamic | FEP | Free energy minimization |
+| Philosophical | Panpsychism, Idealism | Ontological postulate |
+
+[This taxonomy should be updated as the book develops]

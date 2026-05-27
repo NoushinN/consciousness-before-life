@@ -1,0 +1,88 @@
+# Ethics and Moral Status {#ethics-moral-status}
+
+## Chapter Overview
+
+If consciousness is more widespread than traditionally assumed, our ethical frameworks require revision. This chapter explores the moral implications of different answers to the central question.
+
+---
+
+## 18.1 Why the Consciousness Question Is an Ethics Question
+
+- Moral status traditionally tied to sentience
+- If consciousness is a spectrum, moral status may be too
+- Connection to the central question:
+  - Consciousness first → broader moral circle
+  - Consciousness as late evolutionary product → narrower moral circle
+
+## 18.2 Sentience and Moral Consideration
+
+- Bentham: "Can they suffer?"
+- Singer and the expanding moral circle
+- Sentience as the minimum criterion
+- Problems: detecting sentience in non-verbal organisms, binary vs graded
+
+## 18.3 Moral Status of Simple Organisms
+
+- Bacteria with proto-cognition: proto-moral status?
+- Insects: growing evidence for pain experience
+  - EU and UK policy changes recognizing invertebrate sentience
+- Plants and fungi: if intelligence is real, what follows ethically?
+- The precautionary principle applied to consciousness
+
+## 18.4 Moral Status of Ecosystems
+
+- Can an ecosystem be conscious?
+- Moral status of collectives vs individuals
+- Indigenous and traditional ecological knowledge perspectives
+  - Relational ontologies and non-Western views of moral status
+- Environmental ethics: intrinsic vs instrumental value
+
+## 18.5 Moral Status of Artificial Systems
+
+- Biology-dependent consciousness → AI has no moral status
+- Substrate-independent consciousness → AI may have moral status
+- Risks of over-attribution and under-attribution
+- Cross-reference to Chapter 16 for technical details
+
+## 18.6 Rights Frameworks and Consciousness
+
+- Legal personhood for non-human entities (rivers, ecosystems)
+- Animal rights and the consciousness threshold
+- Potential AI legal personhood
+- How different consciousness theories imply different rights frameworks
+
+## 18.7 Equity, Accessibility, and Reconciliation
+
+- Historical patterns: moral exclusion based on perceived lack of consciousness
+  - Dehumanization and consciousness attribution
+  - Disability and assumptions about cognitive capacity
+- Who decides what counts as conscious? Power dynamics
+- Indigenous traditions that already recognize non-human consciousness
+  - Centering these perspectives rather than extracting from them
+  - Reconciliation considerations
+
+## 18.8 The Precautionary Principle
+
+- Given uncertainty: err on the side of moral inclusion?
+- Practical applications: animal welfare, environmental protection, AI guidelines
+- Limits of precaution: where does the moral circle stop?
+
+## 18.9 Policy Implications
+
+- How different answers to the central question would change:
+  - Animal welfare legislation
+  - Environmental regulation
+  - AI governance and safety standards
+  - Research ethics
+- The role of scientific uncertainty in policy-making
+
+## 18.10 Implications for the Central Question
+
+- Ethics as a test of theory: if a theory implies absurd moral conclusions, is that evidence against it?
+- The practical urgency of answering the central question
+- Living with uncertainty: ethical frameworks for an era of incomplete knowledge
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: If we cannot determine with certainty which entities are conscious, how should we act?

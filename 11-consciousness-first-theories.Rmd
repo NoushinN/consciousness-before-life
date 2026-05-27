@@ -1,28 +1,85 @@
+# Consciousness-First Theories {#consciousness-first-theories}
 
-# Consciousness-First Theories
+## Chapter Overview
 
-## Chapter Purpose
+This chapter examines theories that propose consciousness is fundamental — not a product of biological evolution but a basic feature of reality from which life and matter emerge or within which they arise.
 
-Examine panpsychism, cosmopsychism, idealism, analytic idealism, participatory universe models, and consciousness field theories.
+---
 
-## Suggested Topics
+## 11.1 The Core Claim
 
-- 
-- 
-- 
+- Consciousness is not derived from matter; matter may be derived from or structured by consciousness
+- This reverses the standard scientific narrative
+- Historical precedents: idealism, panpsychism, certain religious traditions
 
-## Suggested Figures or Tables
+## 11.2 Panpsychism
 
-- 
-- 
-- 
+- Definition: consciousness (or proto-consciousness) is a fundamental and ubiquitous feature of matter
+- Constitutive panpsychism: macro-consciousness is composed of micro-consciousness
+- The combination problem: how do micro-experiences combine into unified macro-experience?
+- Key proponents: Strawson, Goff, Chalmers (as a serious option)
+- Strengths: avoids the hard problem by denying emergence
+- Weaknesses: the combination problem, empirical testability
 
-## Key Questions
+## 11.3 Cosmopsychism
 
-- 
-- 
-- 
+- The universe as a whole is conscious; individual consciousnesses are derived
+- Top-down rather than bottom-up
+- The decomposition problem: how does cosmic consciousness differentiate?
+- Nagasawa and Wager, Shani, Goff
+- Relationship to Neoplatonism and Vedanta
 
-## Notes
+## 11.4 Idealism
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Ontological idealism: only mind/consciousness exists; matter is appearance
+- Kastrup's analytic idealism:
+  - Universal consciousness as the sole ontological primitive
+  - Individual minds as dissociated "alters" of cosmic consciousness
+  - The brain as a filter, not a generator
+- Strengths: elegant solution to the hard problem
+- Weaknesses: explaining the regularity and independence of the physical world
+
+## 11.5 Russellian Monism
+
+- Russell's insight: physics describes structure, not intrinsic nature
+- Consciousness as the intrinsic nature of matter
+- Neither physicalism nor dualism
+- Chalmers' endorsement as a "promising" framework
+- How Russellian monism relates to panpsychism and neutral monism
+
+## 11.6 Dual-Aspect Monism
+
+- One substance, two aspects: mental and physical
+- Spinoza's legacy
+- Pauli-Jung conjecture: mind and matter as complementary aspects
+- Relevance to quantum mechanics interpretations
+
+## 11.7 Process Philosophy
+
+- Whitehead: reality as composed of "occasions of experience"
+- Every actual entity has a mental and physical pole
+- Process rather than substance as fundamental
+- Influence on contemporary panpsychism and consciousness studies
+
+## 11.8 Evaluating Consciousness-First Theories
+
+- Criteria:
+  - Explanatory power
+  - Internal consistency
+  - Empirical testability
+  - Parsimony
+- How consciousness-first theories perform on each criterion
+- The unfalsifiability concern
+
+## 11.9 Implications for the Central Question
+
+- If consciousness is fundamental:
+  - Life emerged within consciousness, not the other way around
+  - The origin of life is a question about how consciousness organizes into living forms
+  - The hard problem dissolves
+- But: new problems arise (combination, decomposition, testability)
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is the idea that consciousness is fundamental a genuine explanation, or does it merely relocate the mystery?

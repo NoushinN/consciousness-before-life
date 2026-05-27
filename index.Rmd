@@ -1,14 +1,45 @@
-
 ---
-title: "Which Came First: Consciousness or Life?"
+title: "Life and Mind: Did Consciousness Precede Life or Emerge From It?"
 author: "Noushin Nabavi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
+biblio-style: apalike
 link-citations: yes
+description: "An interdisciplinary synthesis exploring the relationship between the origin of life and the emergence of consciousness."
 ---
 
 # Preface {-}
 
-This book explores scientific, philosophical, and metaphysical theories concerning the relationship between life and consciousness.
+## Why This Book?
+
+- The origin of life and the nature of consciousness are two of the deepest unsolved problems in science and philosophy
+- They are almost always treated as separate questions
+- This book asks: what happens when we consider them together?
+- The central question: Did consciousness come first, or did life give rise to consciousness — or are they inseparable?
+
+## Who This Book Is For
+
+- Researchers, students, and curious readers across philosophy, neuroscience, biology, physics, and cognitive science
+- No single disciplinary background is assumed
+- Each part is designed to be accessible while building toward a synthesis
+
+## How to Read This Book
+
+- Parts 1–2: foundational framing and historical context
+- Parts 3–4: the science of life and consciousness separately
+- Parts 5–6: the two directional hypotheses (consciousness-first vs life-first)
+- Parts 7–8: implications, open questions, and synthesis
+- Appendices: reference materials, glossary, taxonomies, and comparison tables
+
+## Conventions Used
+
+- Key terms are defined in the Glossary (Appendix A)
+- Philosophical terms are collected in Appendix D
+- Comparison tables for theories appear in Appendix C
+- Each chapter ends with a summary and an open question
+
+## Acknowledgments
+
+- [Placeholder for acknowledgments]

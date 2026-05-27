@@ -1,28 +1,69 @@
+# Emergentist Models of Consciousness {#emergentist-models}
 
-# Emergentist and Neuroscientific Models
+## Chapter Overview
 
-## Chapter Purpose
+This chapter examines theories that treat consciousness as an emergent property of complex physical systems — particularly brains. These represent the dominant scientific approach.
 
-Discuss neuroscientific explanations of consciousness, neural correlates, predictive processing, and consciousness as an emergent biological phenomenon.
+---
 
-## Suggested Topics
+## 9.1 What Is Emergence?
 
-- 
-- 
-- 
+- Weak emergence: higher-level patterns reducible in principle to lower-level processes
+- Strong emergence: genuinely novel properties not deducible from lower-level descriptions
+- Which type of emergence does consciousness require?
+- The ontological status of emergent properties
 
-## Suggested Figures or Tables
+## 9.2 Neural Correlates of Consciousness (NCCs)
 
-- 
-- 
-- 
+- Definition: the minimal neural mechanisms sufficient for a specific conscious experience
+- Key findings:
+  - Visual consciousness and the ventral stream
+  - Prefrontal cortex and conscious access
+  - Thalamocortical loops
+- Limitations: correlation vs causation
+- NCCs tell us where, not why
 
-## Key Questions
+## 9.3 Biological Naturalism (Searle)
 
-- 
-- 
-- 
+- Consciousness as a biological phenomenon like digestion or photosynthesis
+- Caused by brain processes, realized in brain structures
+- Not reducible to computation
+- The Chinese Room argument and its implications
+- Strengths and criticisms
 
-## Notes
+## 9.4 Neurobiological Theories of Consciousness
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Edelman's Neural Darwinism and re-entrant processing
+- Damasio's somatic marker hypothesis
+- The role of emotion and the body in consciousness
+- Consciousness as a biological function: what is it for?
+
+## 9.5 Higher-Order Theories
+
+- Rosenthal: a mental state is conscious when there is a higher-order thought about it
+- Higher-order perception theories (Lycan)
+- Implications: consciousness requires self-monitoring
+- Criticisms: infinite regress, over-intellectualization
+
+## 9.6 Strengths and Limitations of Emergentism
+
+- Strengths:
+  - Consistent with neuroscience evidence
+  - Testable predictions
+  - Parsimonious (no new fundamental entities)
+- Limitations:
+  - The hard problem remains
+  - Strong emergence may be incoherent
+  - Does not explain why these particular arrangements produce experience
+
+## 9.7 Implications for the Central Question
+
+- Emergentism implies: life first, consciousness later
+- Consciousness appears only when biological complexity reaches a threshold
+- But: what is that threshold, and why?
+- The transition problem (preview of Chapter 15)
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Can emergence explain the existence of experience, or only its correlates?

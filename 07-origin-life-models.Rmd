@@ -1,28 +1,71 @@
+# Origin of Life Models {#origin-life-models}
 
-# Scientific Theories of the Origin of Life
+## Chapter Overview
 
-## Chapter Purpose
+This chapter surveys the major scientific models for how life originated from non-living matter. The focus is not on the models themselves but on what each implies about the potential for consciousness at the origin of life.
 
-Review abiogenesis theories including RNA world, hydrothermal vents, metabolism-first models, autocatalytic systems, and LUCA.
+---
 
-## Suggested Topics
+## 7.1 The Problem of Abiogenesis
 
-- 
-- 
-- 
+- The transition from chemistry to biology
+- What needs to be explained: replication, metabolism, compartmentalization
+- Historical context: Oparin-Haldane hypothesis, Miller-Urey experiment
 
-## Suggested Figures or Tables
+## 7.2 RNA World Hypothesis
 
-- 
-- 
-- 
+- RNA as both information carrier and catalyst (ribozymes)
+- Self-replicating RNA molecules
+- Strengths: explains the dual role of nucleic acids
+- Weaknesses: RNA is fragile, hard to synthesize abiotically
+- Consciousness implications: purely chemical, no obvious role for experience
 
-## Key Questions
+## 7.3 Metabolism-First Models
 
-- 
-- 
-- 
+- Life as organized chemical cycles before genetic information
+- Iron-sulfur world (Wächtershäuser)
+- Hydrothermal vent theories (Martin and Russell)
+- Strengths: thermodynamically grounded
+- Consciousness implications: self-sustaining chemical organization as proto-agency?
 
-## Notes
+## 7.4 Protocells and Compartmentalization
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Lipid vesicles and membrane formation
+- The importance of boundaries: self vs non-self
+- Szostak's protocell research
+- Consciousness implications: does having a boundary create a primitive "perspective"?
+
+## 7.5 Autocatalytic Sets and Chemical Self-Organization
+
+- Kauffman's autocatalytic sets
+- Collectively self-sustaining chemical networks
+- No single replicator needed — the system replicates as a whole
+- Consciousness implications: does collective self-sustenance imply anything about experience?
+
+## 7.6 Thermodynamic and Dissipative Approaches
+
+- England's dissipation-driven adaptation
+- Life as a consequence of thermodynamic imperatives
+- Energy flow and the inevitability of complex organization
+- Consciousness implications: if life is thermodynamically inevitable, is consciousness?
+
+## 7.7 Assembly Theory
+
+- Cronin and Walker: complexity as a measurable quantity
+- Assembly index: how many steps to build a molecule
+- Life as molecules that require complex assembly pathways
+- Implications for detecting life — and possibly consciousness
+
+## 7.8 Implications for the Central Question
+
+- Most origin-of-life models are silent on consciousness
+- But some (metabolism-first, autopoiesis, dissipative structures) imply:
+  - Agency at the origin
+  - Self-organization as proto-cognition
+  - Information processing from the very beginning
+- Does the origin of life already contain the seed of consciousness?
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Can any origin-of-life model explain the origin of experience, or is an additional ingredient required?

@@ -1,0 +1,96 @@
+# Key Philosophical Terms {#key-philosophical-terms}
+
+## Purpose
+
+A reference guide to philosophical terminology used in the book, with brief definitions and context for readers from non-philosophy backgrounds.
+
+---
+
+## Ontology
+
+- The study of what exists
+- Ontological questions: What kinds of things are real? Is consciousness a real entity or an illusion?
+- Relevance: the central question is fundamentally ontological
+
+## Epistemology
+
+- The study of knowledge
+- Epistemological questions: Can we know whether bacteria are conscious? What counts as evidence?
+- Relevance: limits of testability (Chapter 17)
+
+## Metaphysics
+
+- The study of the fundamental nature of reality
+- Broader than ontology: includes causation, time, identity, possibility
+- The life-consciousness question is a metaphysical question
+
+## Dualism
+
+- The view that mind and matter are fundamentally different
+- Substance dualism (Descartes): two kinds of stuff
+- Property dualism: one substance, two kinds of properties
+- Relevance: if dualism is true, consciousness and life are separate questions
+
+## Monism
+
+- The view that there is only one fundamental kind of thing
+- Physicalism: that thing is physical
+- Idealism: that thing is mental
+- Neutral monism: that thing is neither physical nor mental
+
+## Phenomenology
+
+- The study of structures of experience from the first-person perspective
+- Husserl, Heidegger, Merleau-Ponty
+- Not to be confused with "phenomenal consciousness" (though related)
+
+## Intentionality
+
+- The "aboutness" or directedness of mental states
+- A belief is about something; a perception is of something
+- Key question: do bacteria have intentional states?
+
+## Supervenience
+
+- A depends on B if there can be no change in A without a change in B
+- Consciousness supervenes on the physical (physicalist claim)
+- But does it? Zombie arguments challenge this
+
+## Teleology
+
+- Purpose or goal-directedness
+- Aristotelian teleology: things have natural purposes
+- Modern biology: function without purpose (natural selection)
+- Relevance: is consciousness for something?
+
+## Reductionism
+
+- Explaining higher-level phenomena in terms of lower-level components
+- Can consciousness be reduced to neuroscience? To physics?
+- Anti-reductionism: some things cannot be reduced
+
+## Emergence (Philosophical)
+
+- Weak: higher-level patterns, in-principle reducible
+- Strong: genuinely novel, irreducible properties
+- Consciousness as a candidate for strong emergence
+
+## Qualia
+
+- The subjective, qualitative character of experience
+- The redness of red, the painfulness of pain
+- Central to the hard problem
+
+## Zombie (Philosophical)
+
+- A being physically identical to a conscious being but with no experience
+- If zombies are conceivable, physicalism may be false
+- Chalmers' zombie argument
+
+## The Explanatory Gap
+
+- Even a complete physical description of the brain seems to leave out experience
+- Levine (1983): the gap between physical explanation and conscious experience
+- Not the same as the hard problem, but closely related
+
+[Additional terms can be added as chapters are written]

@@ -1,28 +1,67 @@
+# What Is Consciousness? {#what-is-consciousness}
 
-# What Is Consciousness?
+## Chapter Overview
 
-## Chapter Purpose
+This chapter introduces the major definitions, distinctions, and frameworks for understanding consciousness. It establishes the conceptual vocabulary used throughout the book.
 
-Discuss awareness, subjective experience, qualia, self-awareness, levels of consciousness, and the hard problem of consciousness.
+---
 
-## Suggested Topics
+## 3.1 The Problem of Definition
 
-- 
-- 
-- 
+- Consciousness as the most familiar yet most elusive phenomenon
+- Why even experts disagree on what the word means
+- The importance of specifying which sense of consciousness is under discussion
 
-## Suggested Figures or Tables
+## 3.2 Phenomenal Consciousness
 
-- 
-- 
-- 
+- "What it is like" to have an experience (Nagel)
+- Qualia: the subjective qualities of experience
+- The hard problem (Chalmers): why does physical processing give rise to experience?
+- Examples: color, pain, taste, emotion
 
-## Key Questions
+## 3.3 Access Consciousness
 
-- 
-- 
-- 
+- Information available for reasoning, reporting, and behaviour control (Block)
+- Distinction from phenomenal consciousness
+- Can there be access without phenomenal experience?
+- Relevance to AI and animal cognition debates
 
-## Notes
+## 3.4 Minimal Consciousness and Proto-Consciousness
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Is there a simplest form of consciousness?
+- Proto-consciousness: pre-reflective, non-verbal awareness
+- Minimal selfhood and minimal experience
+- Why these concepts matter for the origin question
+
+## 3.5 Self-Consciousness and Higher-Order Consciousness
+
+- Awareness of being aware
+- Mirror test and self-recognition
+- Theory of mind and metacognition
+- The developmental and evolutionary trajectory
+
+## 3.6 Key Distinctions
+
+- Consciousness vs awareness vs sentience vs cognition
+- Wakefulness vs experience (locked-in syndrome, anaesthesia)
+- Content of consciousness vs state of consciousness
+- First-person vs third-person perspectives
+
+## 3.7 The Explanatory Gap
+
+- Why physical descriptions seem to leave out subjective experience
+- The zombie argument (Chalmers)
+- The knowledge argument (Jackson's Mary)
+- What the gap means for scientific theories
+
+## 3.8 Implications for the Central Question
+
+- If consciousness is binary (on/off) → there was a moment it appeared
+- If consciousness is graded → it may extend much further back
+- If consciousness is fundamental → it may precede life
+- The definition you choose constrains the possible answers
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is consciousness one thing, or are we using one word for several fundamentally different phenomena?

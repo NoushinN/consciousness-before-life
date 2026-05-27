@@ -1,0 +1,98 @@
+# The Evolution of Consciousness {#evolution-of-consciousness}
+
+## Chapter Overview
+
+This chapter traces the evolutionary trajectory from the simplest living organisms to complex conscious beings. It begins with minimal cognition in brainless organisms and asks: at what point in evolutionary history did life become conscious?
+
+---
+
+## 14.1 Minimal Cognition: Defining the Starting Point
+
+- Cognition vs consciousness: a critical distinction
+- Basal cognition (Levin, Lyon): intelligence without brains
+- Functional definitions:
+  - Sensing, information processing, adaptive response, memory, learning
+- Where does "mere mechanism" end and "cognition" begin?
+
+## 14.2 Bacterial Intelligence
+
+- Chemotaxis: navigation by chemical gradient
+  - E. coli run-and-tumble behaviour
+  - Temporal comparison as a form of memory
+- Quorum sensing: collective decision-making
+- Biofilm formation as cooperative behaviour
+- Key question: is bacterial behaviour "about" anything? (Intentionality debate)
+
+## 14.3 Protists and Single-Celled Decision-Making
+
+- Paramecium: avoidance behaviour and habituation
+- Physarum polycephalum (slime mold):
+  - Maze-solving, network optimization, anticipatory behaviour
+- Stentor roeselii: hierarchical decision-making
+- What these organisms tell us about cognition without neurons
+
+## 14.4 Plant Cognition and Signaling
+
+- Plant sensory systems: phototropism, gravitropism, thigmotropism
+- Chemical and electrical signaling
+- Root intelligence and foraging behaviour
+- Trewavas and Mancuso: the case for plant intelligence
+- Critiques: anthropomorphism or genuine cognition?
+
+## 14.5 Fungal Networks and Distributed Intelligence
+
+- Mycorrhizal networks ("wood wide web")
+- Resource allocation decisions
+- Information transfer between connected plants
+- Parallels with neural networks
+
+## 14.6 Sensing vs Feeling: The Critical Divide
+
+- Detection (thermostat model) vs functional sensing vs phenomenal experience
+- Nagel's question applied to bacteria: is there something it is like to be E. coli?
+- The "overflow" problem: when does information processing become experience?
+- Gradualism vs sharp boundary views
+
+## 14.7 Memory and Learning Without Brains
+
+- Habituation in single-celled organisms
+- Epigenetic memory
+- Non-neural memory storage: structural, chemical
+- If memory exists without neurons, can consciousness?
+
+## 14.8 The Emergence of Nervous Systems
+
+- From nerve nets to centralized brains
+- Cnidarians (jellyfish): the simplest nervous systems
+- Bilateral symmetry and cephalization
+- The Cambrian explosion and sensory complexity
+
+## 14.9 Key Evolutionary Candidates
+
+- Arthropods (insects): centralized ganglia, evidence for pain
+- Cephalopods (octopuses): distributed intelligence, complex behaviour
+- Early vertebrates: centralized brain processing
+- Feinberg and Mallatt's neurobiological framework for primary consciousness
+
+## 14.10 Theoretical Frameworks for Basal Cognition
+
+- Free Energy Principle (Friston) applied to minimal systems
+- Predictive processing at the cellular level
+- IIT applied to simple organisms: what is their Phi (Φ)?
+- Autopoietic enactivism (Thompson, Di Paolo)
+- Agency and minimal selfhood
+
+## 14.11 Implications for the Central Question
+
+- If cognition exists without nervous systems:
+  - Consciousness may be a spectrum rather than a threshold
+  - Proto-consciousness may have preceded complex life
+- If consciousness requires nervous systems:
+  - It is a product of specific biological evolution
+  - Life clearly came first
+- What the evolutionary record suggests — and what it cannot tell us
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is there a principled way to determine where sensing ends and experiencing begins?

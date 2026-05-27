@@ -1,0 +1,87 @@
+# The Hard Transition {#hard-transition}
+
+## Chapter Overview
+
+This chapter addresses the most difficult question in the life-to-consciousness direction: at what point does biological information processing become subjective experience? This is not merely the "hard problem" of consciousness but the hard *transition* problem — when, where, and how did experience first arise?
+
+---
+
+## 15.1 Stating the Problem Precisely
+
+- The hard problem (Chalmers): why is there subjective experience at all?
+- The hard transition: when did subjective experience first appear?
+- Why these are related but distinct questions
+- The explanatory gap between neural correlates and phenomenal experience
+
+## 15.2 Gradualism: Consciousness as a Continuum
+
+- The spectrum view: proto-consciousness → minimal → rich consciousness
+- Supporting arguments:
+  - Evolutionary continuity (Darwin's principle)
+  - No obvious break point in the tree of life
+  - Gradual increases in neural complexity
+- Problems:
+  - At what point on the continuum does experience begin?
+  - Is "a little bit conscious" coherent?
+  - The sorites problem applied to consciousness
+
+## 15.3 Threshold Models: A Discrete Transition
+
+- Consciousness "switches on" at a specific level of complexity
+- Proposed thresholds:
+  - Nervous system emergence
+  - Centralized brain architecture
+  - Re-entrant processing (Edelman)
+  - Global workspace access (Baars, Dehaene)
+  - Sufficient integrated information (Tononi, IIT)
+- Problems:
+  - Arbitrary cutoff points
+  - Why that threshold and not another?
+  - The zombie problem below threshold
+
+## 15.4 Developmental Perspectives
+
+- Fetal consciousness:
+  - Neural development timeline
+  - Thalamocortical connections (~24–28 weeks)
+  - Evidence from fetal responses and neonatal studies
+- Infant consciousness:
+  - Pre-reflective awareness
+  - Development of self-recognition
+- Does ontogeny recapitulate the evolutionary transition?
+
+## 15.5 The Phenomenal vs the Functional
+
+- Two ways to define the transition:
+  - Functional: when does an organism use information in ways requiring consciousness?
+  - Phenomenal: when is there something it is like to be that organism?
+- Can functional transitions occur without phenomenal ones?
+- The possibility of "functional zombies" in nature
+- Why the phenomenal transition may be scientifically inaccessible
+
+## 15.6 How Major Theories Locate the Transition
+
+- Each theory (from Chapters 9–10) implies a different transition point:
+  - GWT: when global broadcast architecture emerges
+  - IIT: when Φ exceeds some threshold (or: consciousness is always there)
+  - FEP: when any system minimizes free energy (very early)
+  - RPT: when recurrent processing appears
+  - AST: when a self-model of attention is built
+- Summary table: theory → implied transition point → implied scope of consciousness
+
+## 15.7 The Explanatory Gap and Its Implications
+
+- Why no current theory fully explains the transition
+- Mysterian positions (McGinn): is the transition beyond human comprehension?
+- Pragmatic approaches: can we make progress without solving the hard problem?
+
+## 15.8 Implications for the Central Question
+
+- If the transition is gradual → consciousness may be as old as life (co-emergence)
+- If the transition is sharp → consciousness is a product of specific complexity (life first)
+- What the transition problem reveals about the limits of current science
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is the hard transition a scientific problem that can be solved, or a philosophical puzzle that marks the boundary of empirical inquiry?

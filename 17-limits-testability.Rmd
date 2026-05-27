@@ -1,0 +1,72 @@
+# Limits and Testability {#limits-testability}
+
+## Chapter Overview
+
+Can the relationship between life and consciousness ever be resolved empirically? This chapter examines the methodological limits, the role of first-person vs third-person evidence, and what it would take to make progress.
+
+---
+
+## 17.1 The Measurement Problem for Consciousness
+
+- Consciousness is subjectively accessible but objectively elusive
+- No consciousness-meter: we cannot directly measure experience
+- Behavioural and neural proxies and their limitations
+- The "other minds" problem
+
+## 17.2 First-Person vs Third-Person Methods
+
+- Third-person: neuroscience, behaviour, brain imaging
+- First-person: introspection, phenomenological reports
+- Second-person: empathic engagement, clinical interviews
+- Neurophenomenology (Varela): bridging first and third person
+- Can contemplative practices provide data?
+
+## 17.3 Falsifiability and Consciousness Theories
+
+- Which theories are testable?
+  - GWT: predictions about neural ignition
+  - IIT: predictions about Φ and specific structures
+  - Orch-OR: predictions about quantum coherence in microtubules
+  - Panpsychism: what would falsify it?
+- The adversarial collaboration approach
+- Limits of empirical adjudication
+
+## 17.4 The Problem of Other Minds Applied to Life
+
+- How do we know if bacteria are conscious?
+- The inference problem for non-verbal organisms
+- Behavioural criteria and their circularity
+- The precautionary approach vs the parsimony approach
+
+## 17.5 Mathematical and Formal Approaches
+
+- Can consciousness be formalized?
+- IIT's mathematical framework
+- Category theory and consciousness
+- Computational models and their limits
+- The gap between formal models and phenomenal reality
+
+## 17.6 Interdisciplinary Challenges
+
+- Why progress requires collaboration across disciplines
+- Institutional barriers: funding, publishing, career incentives
+- The challenge of shared vocabulary
+- Successful examples of interdisciplinary progress
+
+## 17.7 What Would Count as Progress?
+
+- Clear criteria for evaluating theories
+- Empirical markers of consciousness in simple organisms
+- New experimental paradigms
+- The role of technology: brain-computer interfaces, optogenetics, AI
+
+## 17.8 Implications for the Central Question
+
+- Some versions of the question may be permanently beyond empirical reach
+- But meaningful progress is possible on specific sub-questions
+- The value of the question even if it cannot be fully answered
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is the relationship between life and consciousness a scientific question, a philosophical one, or a question that transcends both categories?

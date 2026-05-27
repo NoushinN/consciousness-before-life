@@ -1,0 +1,69 @@
+# Artificial Consciousness {#artificial-consciousness}
+
+## Chapter Overview
+
+If consciousness is tied to life, can artificial systems ever be conscious? If consciousness is substrate-independent, could machines already be on the path? This chapter examines what AI reveals about the relationship between life and consciousness.
+
+---
+
+## 16.1 The Question AI Poses
+
+- AI as a natural experiment for consciousness theories
+- If we build a system that behaves as if conscious, is it?
+- The Turing Test and its limitations
+- Why the AI question is central to the life-consciousness debate
+
+## 16.2 Functionalism and Machine Consciousness
+
+- If consciousness is functional, it could be realized in silicon
+- Multiple realizability: the same function, different substrates
+- Computational functionalism: consciousness as computation
+- Searle's Chinese Room: understanding vs simulation
+
+## 16.3 What Current AI Systems Do and Don't Have
+
+- Large language models: pattern matching or understanding?
+- Embodied AI and robotics
+- Reinforcement learning and goal-directed behaviour
+- What is missing: phenomenal experience, self-awareness, sentience?
+
+## 16.4 Theoretical Perspectives on AI Consciousness
+
+- IIT: most current AI architectures have very low Φ
+- GWT: could a global workspace be built artificially?
+- FEP: active inference in artificial agents
+- AST: building an attention schema
+- Biological naturalism (Searle): consciousness requires biology — AI cannot be conscious
+
+## 16.5 The Substrate Question
+
+- Does consciousness require carbon-based biology?
+- Substrate independence vs substrate dependence
+- The biological naturalism challenge
+- Embodiment and the role of the body
+
+## 16.6 Artificial Life
+
+- Creating life-like systems in silico
+- Digital evolution and artificial selection
+- If artificial life is "alive," could it be conscious?
+- The boundary between simulation and realization
+
+## 16.7 Risks and Responsibilities
+
+- The risk of creating suffering without recognizing it
+- The risk of attributing consciousness where none exists
+- Design principles for responsible AI development
+- Current governance frameworks and their limitations
+
+## 16.8 Implications for the Central Question
+
+- If AI can be conscious without being alive → consciousness is substrate-independent → challenges life-first models
+- If AI cannot be conscious → consciousness requires life → supports life-first models
+- If artificial life can be conscious → supports co-emergence
+- AI as a testing ground for consciousness theories
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: If a machine reports being conscious, how would we know whether to believe it?

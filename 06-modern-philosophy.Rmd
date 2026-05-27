@@ -1,28 +1,77 @@
+# Modern Philosophy of Mind {#modern-philosophy}
 
-# Modern Philosophy of Mind
+## Chapter Overview
 
-## Chapter Purpose
+This chapter traces the development of modern philosophical frameworks relevant to the life-consciousness relationship, from Descartes through contemporary philosophy of mind.
 
-Discuss Descartes, dualism, materialism, idealism, phenomenology, Whitehead, and modern philosophical theories of mind.
+---
 
-## Suggested Topics
+## 6.1 Descartes and the Mind-Body Split
 
-- 
-- 
-- 
+- Substance dualism: mind and body as fundamentally different
+- The pineal gland hypothesis
+- The legacy: why modern science treats consciousness as separate from biology
+- The "Cartesian wound" and its influence on the central question
 
-## Suggested Figures or Tables
+## 6.2 Spinoza and Neutral Monism
 
-- 
-- 
-- 
+- Dual-aspect monism: mind and matter as two attributes of one substance
+- Relevance to co-emergence models
+- Influence on contemporary neutral monism and dual-aspect theories
+- Spinoza's panpsychism
 
-## Key Questions
+## 6.3 Leibniz and the Monadology
 
-- 
-- 
-- 
+- Monads as fundamental units of experience
+- The mill argument: why mechanism cannot explain consciousness
+- Pre-established harmony
+- Relevance to contemporary panpsychism
 
-## Notes
+## 6.4 Kant and the Limits of Knowledge
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- The noumenal/phenomenal distinction
+- Can we know consciousness as it is in itself?
+- Implications for the scientific study of consciousness
+- Kantian limits on answering the central question
+
+## 6.5 Phenomenology
+
+- Husserl: consciousness as intentionality (aboutness)
+- Heidegger: being-in-the-world
+- Merleau-Ponty: embodied consciousness
+- The lived body as the site where life and consciousness meet
+- Relevance: consciousness is always embodied, always alive
+
+## 6.6 Physicalism and Its Variants
+
+- Identity theory: mental states = brain states
+- Functionalism: consciousness defined by functional role
+- Eliminative materialism: consciousness as folk psychology
+- Strengths and limitations for explaining the transition from life to mind
+
+## 6.7 Property Dualism and Emergence
+
+- Non-reductive physicalism
+- Strong vs weak emergence
+- Consciousness as an emergent property of complex systems
+- The explanatory gap revisited
+
+## 6.8 Contemporary Panpsychism
+
+- Strawson, Goff, Chalmers: the case for panpsychism
+- The combination problem
+- Cosmopsychism: consciousness as a property of the universe
+- Russellian monism: consciousness as the intrinsic nature of matter
+
+## 6.9 Implications for the Central Question
+
+- Each philosophical framework implies a different answer
+- Dualism → consciousness is separate from life
+- Physicalism → consciousness emerges from life
+- Panpsychism → consciousness precedes or co-emerges with life
+- The framework you adopt constrains your answer
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Is the mind-body problem solvable, or does it mark a permanent limit of human understanding?

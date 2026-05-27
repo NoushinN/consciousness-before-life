@@ -1,28 +1,59 @@
+# What Is Life? {#what-is-life}
 
-# What Is Life?
+## Chapter Overview
 
-## Chapter Purpose
+Before asking whether consciousness preceded or followed life, we need a working definition of life. This chapter surveys the major definitions and highlights their implications for the central question.
 
-Explore biological definitions of life, metabolism, replication, adaptation, homeostasis, autopoiesis, and borderline cases such as viruses and artificial life.
+---
 
-## Suggested Topics
+## 2.1 Why Defining Life Is Hard
 
-- 
-- 
-- 
+- No universally accepted definition
+- Edge cases: viruses, prions, self-replicating molecules, synthetic life
+- The definition you choose shapes the answer to the central question
 
-## Suggested Figures or Tables
+## 2.2 Biological Definitions
 
-- 
-- 
-- 
+- NASA working definition: a self-sustaining chemical system capable of Darwinian evolution
+- Metabolic definitions: life as organized chemistry
+- Genetic definitions: life as information replication
+- Cellular definitions: life as bounded, self-maintaining units
 
-## Key Questions
+## 2.3 Thermodynamic and Physical Definitions
 
-- 
-- 
-- 
+- Schrödinger's *What Is Life?*: life as negative entropy
+- Dissipative structures (Prigogine): life as organized energy flow
+- Life as far-from-equilibrium systems
+- The relationship between energy flow and organization
 
-## Notes
+## 2.4 Informational Definitions
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Life as information processing
+- The role of hereditary information (DNA, RNA)
+- Information as a bridge between physics and biology
+- Walker and Davies: life as a transition in informational architecture
+
+## 2.5 Autopoietic Definitions
+
+- Maturana and Varela: life as self-production
+- Operational closure and structural coupling
+- Why autopoiesis already implies a minimal form of cognition
+- Preview of the self-organization chapter
+
+## 2.6 Functional vs Ontological Definitions
+
+- Functional: life is what life does (list of properties)
+- Ontological: life is a specific kind of being or process
+- Why the distinction matters for the consciousness question
+- Can something be functionally alive but not "really" alive?
+
+## 2.7 Implications for the Central Question
+
+- If life is defined by information processing → closer to consciousness
+- If life is defined by chemistry alone → consciousness is a separate question
+- If life is defined by self-production → cognition may be built in from the start
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Does every viable definition of life already smuggle in some form of cognition?

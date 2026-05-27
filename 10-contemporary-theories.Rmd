@@ -1,28 +1,89 @@
+# Contemporary Theories of Consciousness {#contemporary-theories}
 
-# Major Contemporary Theories of Consciousness
+## Chapter Overview
 
-## Chapter Purpose
+This chapter surveys the leading contemporary scientific theories of consciousness, focusing on their mechanisms, predictions, and implications for the relationship between life and mind.
 
-Explore IIT, Global Workspace Theory, Free Energy Principle, Orch-OR, and computational theories of consciousness.
+---
 
-## Suggested Topics
+## 10.1 Global Workspace Theory (GWT)
 
-- 
-- 
-- 
+- Baars: consciousness as a global broadcast in the brain
+- The "theatre" metaphor: spotlight of attention on a global stage
+- Neural Global Workspace (Dehaene and Changeux):
+  - Prefrontal-parietal network
+  - Ignition and sustained activity
+- Empirical evidence: masking, attentional blink, binocular rivalry
+- Predictions and testability
 
-## Suggested Figures or Tables
+## 10.2 Integrated Information Theory (IIT)
 
-- 
-- 
-- 
+- Tononi: consciousness as integrated information (Φ)
+- The five axioms and five postulates
+- Consciousness as intrinsic causal power
+- IIT as a mathematical framework
+- Implications:
+  - Consciousness is graded, not binary
+  - Even simple systems may have minimal Φ
+  - Panpsychist implications
+- Criticisms: unfalsifiability, counterintuitive predictions
 
-## Key Questions
+## 10.3 Predictive Processing and the Free Energy Principle
 
-- 
-- 
-- 
+- The brain as a prediction machine (Clark, Hohwy)
+- Friston's Free Energy Principle:
+  - All living systems minimize surprise (free energy)
+  - Perception, action, and learning as inference
+- Active inference and consciousness
+- Implications for the central question:
+  - If all living systems minimize free energy, do all living systems have experience?
+  - Consciousness as a byproduct of prediction?
 
-## Notes
+## 10.4 Attention Schema Theory (AST)
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Graziano: consciousness as the brain's model of its own attention
+- The attention schema as a simplified, useful fiction
+- Why the brain "believes" it is conscious
+- Implications for AI: build an attention schema, get (functional) consciousness?
+
+## 10.5 Recurrent Processing Theory
+
+- Lamme: consciousness arises from recurrent (feedback) neural processing
+- Feedforward processing is unconscious
+- Recurrent processing creates phenomenal experience
+- Empirical evidence from visual neuroscience
+- Implications: a clear neural threshold for consciousness
+
+## 10.6 Orchestrated Objective Reduction (Orch-OR) — Brief Preview
+
+- Penrose and Hameroff: quantum processes in microtubules
+- Why it is listed here but treated fully in Chapter 13
+- Its relationship to other theories
+
+## 10.7 Theory Comparison
+
+- How the major theories differ on:
+  - What consciousness is
+  - Where it exists
+  - Whether it is graded or binary
+  - Whether it extends beyond brains
+  - Whether it is testable
+- Table: comparative summary of GWT, IIT, FEP, AST, RPT
+
+## 10.8 The Adversarial Collaboration
+
+- The structured empirical tests pitting GWT against IIT
+- Results so far and what they tell us
+- The limits of empirical adjudication between theories
+
+## 10.9 Implications for the Central Question
+
+- GWT and RPT → consciousness requires specific neural architecture → life first
+- IIT → consciousness is graded and potentially universal → co-emergence or consciousness first
+- FEP → consciousness linked to all living systems → co-emergence
+- AST → consciousness as a model, could exist in any modeling system → substrate-independent
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Will empirical science resolve the debate between theories, or is the disagreement fundamentally philosophical?

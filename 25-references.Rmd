@@ -1,0 +1,49 @@
+# References {#references}
+
+## Purpose
+
+Full bibliography of works cited throughout the book.
+
+---
+
+[This chapter will be auto-populated by bookdown from the references.bib file. Key sources are listed below for reference during writing.]
+
+## Core Texts
+
+- Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+- Dehaene, S. (2014). *Consciousness and the Brain*. Viking.
+- Edelman, G. (2004). *Wider Than the Sky*. Yale University Press.
+- Feinberg, T. & Mallatt, J. (2016). *The Ancient Origins of Consciousness*. MIT Press.
+- Godfrey-Smith, P. (2016). *Other Minds*. Farrar, Straus and Giroux.
+- Godfrey-Smith, P. (2020). *Metazoa*. Farrar, Straus and Giroux.
+- Goff, P. (2019). *Galileo's Error*. Pantheon.
+- Hofstadter, D. (1979). *Gödel, Escher, Bach*. Basic Books.
+- Kastrup, B. (2019). *The Idea of the World*. iff Books.
+- Kauffman, S. (1993). *The Origins of Order*. Oxford University Press.
+- Maturana, H. & Varela, F. (1980). *Autopoiesis and Cognition*. D. Reidel.
+- Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
+- Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
+- Prigogine, I. & Stengers, I. (1984). *Order Out of Chaos*. Bantam.
+- Schrödinger, E. (1944). *What Is Life?*. Cambridge University Press.
+- Singer, P. (2011). *The Expanding Circle*. Princeton University Press.
+- Thompson, E. (2007). *Mind in Life*. Harvard University Press.
+- Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 42.
+- Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
+- Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+## Additional Key References
+
+- Baars, B. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+- Ball, P. (2011). *Physics of Life*. Oxford University Press.
+- Birch, J. (2024). *The Edge of Sentience*. Oxford University Press.
+- Friston, K. (2006). A free energy principle for the brain. *Journal of Physiology-Paris*, 100(1-3), 70–87.
+- Graziano, M. (2013). *Consciousness and the Social Brain*. Oxford University Press.
+- Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*, 11(1), 39–78.
+- Levin, M. (2019). The computational boundary of a "self." *Frontiers in Psychology*, 10, 2688.
+- Lyon, P. (2015). The cognitive cell. *Frontiers in Microbiology*, 6, 264.
+- Stapp, H. (2011). *Mindful Universe*. Springer.
+- Trewavas, A. (2014). *Plant Behaviour and Intelligence*. Oxford University Press.
+- Walker, S.I. & Davies, P.C.W. (2013). The algorithmic origins of life. *Journal of the Royal Society Interface*, 10(79).
+- Wendt, A. (2015). *Quantum Mind and Social Science*. Cambridge University Press.
+
+[Complete bibliography to be compiled during final editing]

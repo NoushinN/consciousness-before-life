@@ -1,0 +1,65 @@
+# Timeline of Major Theories {#timeline-major-theories}
+
+## Purpose
+
+A chronological timeline of key theories, discoveries, and publications relevant to the life-consciousness relationship.
+
+---
+
+## Ancient and Classical Period
+
+| Date | Event |
+|------|-------|
+| ~600 BCE | Thales: all matter is alive (hylozoism) |
+| ~500 BCE | Democritus: soul atoms and materialism |
+| ~400 BCE | Plato: the World Soul (*Timaeus*) |
+| ~350 BCE | Aristotle: *De Anima*, the scale of souls |
+| ~250 CE | Plotinus: Neoplatonic emanation theory |
+
+## Early Modern Period
+
+| Date | Event |
+|------|-------|
+| 1641 | Descartes: *Meditations*, substance dualism |
+| 1677 | Spinoza: *Ethics*, dual-aspect monism |
+| 1714 | Leibniz: *Monadology*, panpsychism |
+| 1781 | Kant: *Critique of Pure Reason*, limits of knowledge |
+
+## 19th Century
+
+| Date | Event |
+|------|-------|
+| 1859 | Darwin: *On the Origin of Species* |
+| 1871 | Darwin: *The Descent of Man* (animal consciousness) |
+
+## 20th Century
+
+| Date | Event |
+|------|-------|
+| 1929 | Whitehead: *Process and Reality* |
+| 1944 | Schrödinger: *What Is Life?* |
+| 1953 | Watson and Crick: DNA structure |
+| 1953 | Miller-Urey experiment |
+| 1972 | Maturana and Varela: autopoiesis |
+| 1974 | Nagel: "What is it like to be a bat?" |
+| 1988 | Baars: Global Workspace Theory |
+| 1993 | Kauffman: *The Origins of Order* |
+| 1994 | Penrose: *Shadows of the Mind* (Orch-OR) |
+| 1995 | Chalmers: "Facing up to the problem of consciousness" |
+| 1996 | Hameroff and Penrose: Orch-OR formalized |
+
+## 21st Century
+
+| Date | Event |
+|------|-------|
+| 2004 | Tononi: Integrated Information Theory (IIT) |
+| 2006 | Friston: Free Energy Principle |
+| 2010 | Dehaene: Global Neuronal Workspace |
+| 2015 | Goff: panpsychism revival |
+| 2016 | Feinberg and Mallatt: *Ancient Origins of Consciousness* |
+| 2019 | Kastrup: analytic idealism |
+| 2020 | Cronin and Walker: assembly theory |
+| 2023 | Adversarial collaboration results (GWT vs IIT) |
+| 2024 | Birch: *The Edge of Sentience* |
+
+[Update as new developments occur]

@@ -1,3 +1,1 @@
-# (PART) Part I — Framing the Question
-
-This part introduces the central conceptual and scientific foundations of the book. It explores the definitions of life and consciousness, the relationship between scientific and philosophical explanations, and the role of emergence, complexity, information, and self-organization in understanding reality.
+# (PART) Part I: Framing the Problem {-}

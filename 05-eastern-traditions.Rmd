@@ -1,28 +1,71 @@
+# Eastern Philosophical Traditions {#eastern-traditions}
 
-# Eastern Philosophical Traditions
+## Chapter Overview
 
-## Chapter Purpose
+Eastern philosophical traditions offer fundamentally different frameworks for understanding the relationship between consciousness, life, and matter. This chapter surveys major traditions that are directly relevant to the central question.
 
-Explore Vedanta, Buddhist philosophy, non-duality, consciousness as ultimate reality, and Eastern perspectives on mind and existence.
+---
 
-## Suggested Topics
+## 5.1 Hindu Philosophy and Consciousness
 
-- 
-- 
-- 
+- Vedantic traditions:
+  - Advaita Vedanta: consciousness (Brahman) as the sole reality
+  - The world as appearance (maya) within consciousness
+- Samkhya: consciousness (purusha) and matter (prakriti) as dual principles
+  - Life as the interaction between consciousness and matter
+- The Upanishads: "Tat tvam asi" (You are that)
+- Relevance: a mature consciousness-first ontology
 
-## Suggested Figures or Tables
+## 5.2 Buddhist Perspectives
 
-- 
-- 
-- 
+- Dependent origination: nothing exists independently
+- Consciousness as one of the five aggregates (skandhas)
+- Mind-stream and continuity without a permanent self
+- Buddhist psychology: detailed taxonomies of mental states
+- Yogacara (mind-only) school: the world as mental construction
+- Relevance: consciousness without a fixed substrate
 
-## Key Questions
+## 5.3 Daoist Thought
 
-- 
-- 
-- 
+- The Dao as the source of all things
+- Wu wei and spontaneous self-organization
+- Qi: life-energy pervading all nature
+- Zhuangzi: the butterfly dream and the nature of awareness
+- Relevance: self-organization and consciousness as natural properties
 
-## Notes
+## 5.4 Jain Philosophy
 
-Add examples, references, equations, diagrams, case studies, or comparative discussions here.
+- Jiva (soul/consciousness) present in all living beings
+- Hierarchy of consciousness:
+  - One-sensed beings (earth, water, fire, air, plants)
+  - Through five-sensed beings with mind
+- Ahimsa (non-violence) as an ethical consequence of universal consciousness
+- Relevance: an explicit graduated consciousness framework
+
+## 5.5 Indigenous and Non-Western Perspectives
+
+- Animism: consciousness attributed to natural entities
+- Relational ontologies: self as embedded in living world
+- Indigenous knowledge systems and ecological consciousness
+- Why these perspectives deserve serious philosophical engagement
+- Reconciliation considerations: centering rather than extracting from these traditions
+
+## 5.6 Comparative Analysis
+
+- East vs West: where the frameworks converge and diverge
+- Common themes:
+  - Consciousness as more fundamental than Western science assumes
+  - Life and mind as continuous rather than sharply divided
+  - The observer as participant, not separate
+- What Western science can learn from these traditions
+
+## 5.7 Implications for the Central Question
+
+- Eastern traditions largely favour consciousness-first or co-emergence views
+- They challenge the Western assumption that consciousness is a late evolutionary product
+- Methodological contributions: contemplative practices as first-person data
+
+## Chapter Summary
+
+- Key takeaways
+- Open question: Can contemplative traditions provide evidence about consciousness that third-person science cannot?
