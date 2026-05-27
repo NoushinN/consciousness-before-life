@@ -206,4 +206,4 @@ Noushin Nabavi
 
 ## License
 
-[Specify your license here, e.g., CC BY-NC 4.0, All Rights Reserved, etc.]
+[MIT License]
