@@ -1,8 +1,7 @@
 ---
-title: "Life and Mind"
-subtitle: "Did Consciousness Precede Life or Emerge From It?"
+title: "Life and Mind: Did Consciousness Precede Life or Emerge From It?"
 author: "Noushin Nabavi"
-date: "2026"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 classoption:
@@ -15,28 +14,7 @@ link-citations: yes
 description: "An interdisciplinary synthesis exploring the relationship between the origin of life and the emergence of consciousness."
 header-includes:
   - \usepackage{pdflscape}
-  - \usepackage{setspace}
-  - \usepackage{titlesec}
 ---
-
-\newpage
-
-\thispagestyle{empty}
-
-\vspace*{2in}
-
-Copyright © 2026 Noushin Nabavi
-
-All rights reserved.
-
-This book is a scholarly and interdisciplinary exploration of life, consciousness, and the relationship between biological organization and subjective experience.
-
-\vfill
-
-First draft edition, 2026
-
-\newpage
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
