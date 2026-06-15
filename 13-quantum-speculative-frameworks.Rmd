@@ -10,7 +10,7 @@ The chapter is cautious. Quantum mechanics is a rigorous and experimentally succ
 
 The aim is not to dismiss all quantum approaches. Quantum effects do occur in biological systems. It is also possible that current models of consciousness are incomplete. But invoking quantum mechanics does not automatically solve the hard problem. A quantum mystery is not necessarily an explanation of consciousness.
 
----
+***
 
 ## Why Quantum Mechanics Enters the Consciousness Debate
 
@@ -30,7 +30,7 @@ However, caution is essential. In physics, an “observer” does not necessaril
 
 Quantum mechanics enters the debate because it raises real conceptual puzzles. But those puzzles do not automatically imply that consciousness causes quantum collapse, or that quantum theory explains subjective experience.
 
----
+***
 
 ## Orchestrated Objective Reduction
 
@@ -56,7 +56,7 @@ Recent developments in quantum biology and microtubule research keep some parts 
 
 For the central question of this book, Orch-OR is important because it suggests that consciousness may depend on fundamental physical processes organized through life. If true, consciousness would not be simply a late computational product of neural networks. It would involve a deeper interaction between biology and quantum physics.
 
----
+***
 
 ## Quantum Coherence in Biology
 
@@ -76,7 +76,7 @@ The current scientific consensus is cautious. Quantum biology is real, but quant
 
 For the central question, quantum biology keeps open the possibility that life and consciousness depend on deeper physical principles than classical models assume. But it does not by itself show that consciousness existed before life or that quantum processes caused life to emerge.
 
----
+***
 
 ## The Observer Problem and Consciousness
 
@@ -98,7 +98,7 @@ For consciousness studies, the observer problem is philosophically interesting b
 
 For the central question, observer-based quantum interpretations may support consciousness-first or co-emergence frameworks, but only if they can show that consciousness has a genuine role in physical measurement rather than being added metaphorically.
 
----
+***
 
 ## Quantum Mind Theories Beyond Orch-OR
 
@@ -118,7 +118,7 @@ The challenge is the same across these theories. They must show that relevant qu
 
 For the central question, quantum mind theories suggest that consciousness may not be merely a biological function layered on top of life. It may involve physical principles that also underlie matter and chemistry. If so, the boundary between life and consciousness may need to be rethought.
 
----
+***
 
 ## Non-Quantum Consciousness Field Theories
 
@@ -136,7 +136,7 @@ The challenge for non-quantum consciousness-field theories is similar to the cha
 
 Taheri’s framework is therefore best treated as a speculative consciousness-first theory rather than as a quantum theory. It may be discussed alongside quantum frameworks because both question classical materialism, but it should not be collapsed into quantum mechanics. Its significance lies in its claim that consciousness is primary, non-local, and organizing, not in any specific quantum mechanism.
 
----
+***
 
 ## Speculative Extensions
 
@@ -156,7 +156,7 @@ A responsible speculative framework should clearly distinguish what is known, wh
 
 For this book, speculative frameworks are valuable because they explore the edges of current explanation. But they must remain clearly labeled as speculative unless supported by evidence.
 
----
+***
 
 ## Evaluating the Speculative Landscape
 
@@ -178,7 +178,7 @@ The value of speculative frameworks is that they challenge assumptions. They ask
 
 A mature approach requires both openness and discipline.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -196,7 +196,15 @@ Quantum and speculative frameworks therefore widen the range of possibilities. T
 
 For the central question, the most cautious conclusion is this: quantum frameworks may support consciousness-first or co-emergence models, but only if they provide specific mechanisms connecting fundamental physics, living organization, and subjective experience. At present, they remain suggestive rather than decisive.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by placing consciousness within evolutionary history. If consciousness evolved, then it likely did not appear all at once. It may have developed gradually through sensation, affect, attention, learning, self-regulation, and social cognition.
+
+The question therefore becomes one of continuity and threshold. Which forms of life have only responsiveness, which have cognition, which have sentience, and which have reflective consciousness? Evolution makes the boundary between life and mind harder to draw sharply.
+
+***
 
 ## Chapter Summary
 

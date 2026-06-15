@@ -8,7 +8,7 @@ This chapter traces several major philosophical frameworks that shaped the moder
 
 The chapter does not attempt to solve the mind-body problem. Instead, it shows how different philosophical starting points constrain the possible answers to the central question of this book. If mind and matter are fundamentally separate, then consciousness may not be explainable through life alone. If physicalism is correct, then consciousness must emerge from biological or physical processes. If panpsychism is correct, then consciousness may precede life or co-emerge with matter and life in a deeper way.
 
----
+***
 
 ## Descartes and the Mind-Body Split
 
@@ -26,7 +26,7 @@ This division has sometimes been called a Cartesian wound: a split between natur
 
 For the central question of this book, Descartes creates a strong separation. If consciousness is a non-material substance, then it does not emerge from life in any ordinary biological sense. Life and consciousness interact, but they do not belong to the same order of explanation.
 
----
+***
 
 ## Spinoza and Neutral Monism
 
@@ -44,7 +44,7 @@ Some interpreters also describe Spinoza as having panpsychist tendencies because
 
 For the central question of this book, Spinoza offers an alternative to both life-first materialism and consciousness-first idealism. Life and consciousness may not stand in a simple before-and-after relation. They may be two aspects of the same underlying reality, expressed at different levels of complexity.
 
----
+***
 
 ## Leibniz and the Monadology
 
@@ -64,7 +64,7 @@ For the central question of this book, Leibniz suggests that consciousness may n
 
 This does not solve all problems. Leibniz’s monads are metaphysical entities, not scientific objects. Yet his view remains relevant because it challenges the assumption that matter is intrinsically devoid of experience. If the basic units of reality already have inner aspects, then the emergence of life may be part of a broader organization of experience.
 
----
+***
 
 ## Kant and the Limits of Knowledge
 
@@ -82,7 +82,7 @@ For the central question of this book, Kant introduces humility. We may ask whet
 
 Kant therefore does not give a simple answer to the life-consciousness question. Instead, he warns us that the question may exceed what can be known through ordinary empirical inquiry. This does not make the question meaningless. It means that any answer must recognize the limits of human perspective.
 
----
+***
 
 ## Phenomenology
 
@@ -102,7 +102,7 @@ This has strong implications for the central question. If consciousness is alway
 
 Phenomenology therefore offers a powerful life-consciousness bridge. It does not claim that consciousness is merely a brain process, nor that it floats free from biology. It treats consciousness as world-involving, bodily, and lived.
 
----
+***
 
 ## Physicalism and Its Variants
 
@@ -124,7 +124,7 @@ This view is provocative because it challenges whether consciousness, as ordinar
 
 For the central question of this book, physicalism supports the life-first view. Matter gives rise to life; life gives rise to nervous systems; nervous systems give rise to consciousness. The strength of physicalism is that it keeps consciousness within nature. Its weakness is that it must explain how subjective experience arises from physical processes.
 
----
+***
 
 ## Property Dualism and Emergence
 
@@ -144,7 +144,7 @@ The explanatory gap returns here. Emergence may describe when consciousness appe
 
 For the life-consciousness question, emergence offers a flexible framework. It supports the standard scientific sequence, but it also leaves room for continuity. Life may emerge from self-organizing chemistry; cognition may emerge from living regulation; consciousness may emerge from increasingly integrated biological systems.
 
----
+***
 
 ## Contemporary Panpsychism
 
@@ -162,7 +162,7 @@ Russellian monism is another related view. It begins from the idea that physics 
 
 For the central question of this book, panpsychism opens the door to consciousness-first or co-emergence views. Consciousness may not begin with biological life. Instead, life may organize pre-existing experiential potential into richer forms. The origin of life would then be a major transition in the organization of consciousness, not the absolute beginning of consciousness itself.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -186,7 +186,15 @@ The framework one adopts therefore constrains the possible answer. Dualism separ
 
 The central question is therefore not only empirical. It is also philosophical. Before we can decide which came first, we must decide what kind of reality mind, matter, and life are.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing how far life-first explanations can go. Origin-of-life models can explain replication, metabolism, compartments, autocatalysis, energy flow, and biological organization without necessarily explaining subjective experience.
+
+The question therefore becomes more precise: even if chemistry can become life, does that explain how life becomes experience? Origin-of-life research may explain the beginning of biological organization, but the emergence of consciousness remains a further problem.
+
+***
 
 ## Chapter Summary
 

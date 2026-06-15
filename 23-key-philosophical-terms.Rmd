@@ -6,7 +6,7 @@ This appendix provides a reference guide to philosophical terminology used throu
 
 The terms below are not meant to provide exhaustive philosophical treatments. Instead, they offer practical working definitions that help readers follow the arguments developed across the book.
 
----
+***
 
 ## Ontology
 
@@ -16,7 +16,7 @@ An ontological question is not only about whether something can be measured, but
 
 The central question of this book is fundamentally ontological. To ask whether life came before consciousness, or consciousness before life, is to ask what kind of reality consciousness has. If consciousness is only a biological product, then life comes first. If consciousness is fundamental, then life may arise within consciousness. If life and consciousness co-emerge, then both may be aspects of a deeper process of self-organization.
 
----
+***
 
 ## Epistemology
 
@@ -26,7 +26,7 @@ In this book, epistemology appears whenever we ask whether consciousness can be 
 
 Epistemology is especially important in Chapter 17 on limits and testability. Consciousness is known directly from the first-person perspective, but the consciousness of others is inferred indirectly. This creates a permanent tension between subjective certainty and objective evidence.
 
----
+***
 
 ## Metaphysics
 
@@ -36,7 +36,7 @@ The life-consciousness question is metaphysical because it asks about the deepes
 
 Scientific evidence matters deeply to the question, but science alone may not settle the metaphysical interpretation. The same evidence about brain activity can be interpreted through physicalism, emergentism, dual-aspect monism, or idealism. Metaphysics helps clarify what those interpretations assume.
 
----
+***
 
 ## Dualism
 
@@ -48,7 +48,7 @@ Property dualism is a weaker form. It holds that there is one physical substance
 
 Dualism is relevant because if mind and matter are fundamentally separate, then life and consciousness may be separate questions. Life may be biological, while consciousness may belong to a different order of reality. Many contemporary theories avoid substance dualism but still preserve some distinction between physical process and subjective experience.
 
----
+***
 
 ## Monism
 
@@ -62,7 +62,7 @@ Neutral monism proposes that the fundamental reality is neither mental nor physi
 
 Monism is important because it tries to avoid the division between mind and matter. The question becomes not how two different substances interact, but how one reality can appear as both physical life and conscious experience.
 
----
+***
 
 ## Phenomenology
 
@@ -74,7 +74,7 @@ Phenomenology should not be confused with phenomenal consciousness, though the t
 
 This book uses phenomenological ideas when discussing the first-person character of consciousness and the limits of purely third-person explanation.
 
----
+***
 
 ## Intentionality
 
@@ -86,7 +86,7 @@ The concept becomes difficult when applied to simple organisms. Does a bacterium
 
 The answer depends on how broadly intentionality is defined. In a minimal biological sense, living systems are world-directed because conditions matter to them. In a richer mental sense, intentionality may require representation, awareness, or experience.
 
----
+***
 
 ## Supervenience
 
@@ -98,7 +98,7 @@ Supervenience is important because it allows philosophers to describe dependence
 
 Zombie arguments challenge physicalist interpretations of supervenience. If it is conceivable that a being could be physically identical to a conscious human but have no experience, then perhaps consciousness does not logically supervene on the physical. Whether this conceivability argument succeeds remains debated.
 
----
+***
 
 ## Teleology
 
@@ -112,7 +112,7 @@ However, life still appears goal-directed in a limited sense. Organisms maintain
 
 Teleology is relevant to consciousness because we can ask whether consciousness is for something. Did consciousness evolve for flexible action, social interaction, pain avoidance, planning, or self-modeling? Or is consciousness not functionally necessary at all?
 
----
+***
 
 ## Reductionism
 
@@ -124,7 +124,7 @@ However, consciousness raises special challenges for reductionism. Even a comple
 
 Anti-reductionism does not necessarily deny science. It argues that some phenomena require higher-level descriptions that cannot be fully replaced by lower-level ones. Life, mind, meaning, and consciousness may depend on physical processes without being fully captured by physical descriptions alone.
 
----
+***
 
 ## Emergence
 
@@ -136,7 +136,7 @@ Strong emergence occurs when higher-level properties are genuinely novel and not
 
 Emergence is central to life-first theories. If consciousness emerges from life, then we must explain what kind of emergence is involved. Is consciousness like wetness, a higher-level property of organized matter? Or is it something more radical?
 
----
+***
 
 ## Qualia
 
@@ -148,7 +148,7 @@ Some philosophers argue that qualia are real and irreducible. Others argue that 
 
 In this book, qualia represent the first-person dimension that any complete theory of consciousness must address.
 
----
+***
 
 ## Zombie
 
@@ -160,7 +160,7 @@ Critics argue that zombies may be conceivable only because we do not fully under
 
 Zombie arguments matter for artificial intelligence, animal consciousness, and the hard transition. A system might behave as if conscious, but how would we know whether experience is present?
 
----
+***
 
 ## The Explanatory Gap
 
@@ -172,7 +172,7 @@ The explanatory gap is closely related to the hard problem, but they are not ide
 
 This gap is one of the main reasons some philosophers turn to panpsychism, idealism, dual-aspect monism, or consciousness-first theories.
 
----
+***
 
 ## The Hard Problem
 
@@ -180,7 +180,7 @@ The hard problem of consciousness asks why and how physical processes give rise 
 
 The hard problem is central to the life-consciousness question. If life produced consciousness, then a life-first theory must explain how biological organization crossed into experience. If consciousness is fundamental, then the hard problem may be dissolved or reframed, but new problems arise.
 
----
+***
 
 ## The Hard Transition
 
@@ -190,7 +190,7 @@ It differs from the hard problem. The hard problem asks why experience exists at
 
 The hard transition is especially important for life-first theories. If consciousness emerged from life, then there must have been a transition from non-conscious life to conscious life. The challenge is to explain what changed and why that change produced experience.
 
----
+***
 
 ## Intrinsic Nature
 
@@ -200,7 +200,7 @@ Russellian monism uses this concept to argue that physics describes the structur
 
 This concept is important because it opens a possible middle path between physicalism and dualism. Consciousness may not be separate from matter, but may be the inner aspect of what physics describes externally.
 
----
+***
 
 ## Ontological Primitive
 
@@ -210,7 +210,7 @@ In physicalism, physical reality is often treated as the ontological primitive. 
 
 Taheri’s T-Consciousness framework treats T-Consciousness as an ontological primitive: a fundamental non-material reality that is not produced by matter, energy, frequency, or neural activity.
 
----
+***
 
 ## Taheri’s T-Consciousness Framework
 
@@ -224,7 +224,7 @@ Its relevance to this book is direct. Taheri’s framework supports the view tha
 
 The main philosophical challenge is testability. If T-Consciousness is non-material and not reducible to ordinary physical mechanisms, what would count as evidence for or against it? This challenge is shared with many consciousness-first theories.
 
----
+***
 
 ## Consciousness Field
 
@@ -234,7 +234,7 @@ In Taheri’s framework, consciousness fields are not the same as physical field
 
 The concept is relevant to consciousness-first models because it offers a way to describe how consciousness might be primary while still relating to material and biological organization. However, the term remains speculative unless it can be connected to clearer mechanisms, predictions, or forms of evidence.
 
----
+***
 
 ## T-Consciousness
 
@@ -244,7 +244,7 @@ Within Taheri’s framework, T-Consciousness is treated as primary rather than e
 
 In the context of this book, T-Consciousness represents a consciousness-first model. It challenges the standard life-first view and suggests that life may arise through or within consciousness rather than producing consciousness.
 
----
+***
 
 ## Consciousness-First
 
@@ -254,7 +254,7 @@ These theories include idealism, panpsychism, cosmopsychism, some forms of dual-
 
 The strength of consciousness-first theories is that they address the hard problem directly. Their weakness is that they often struggle with mechanism, testability, and the relationship between consciousness and physical science.
 
----
+***
 
 ## Co-Emergence
 
@@ -264,7 +264,7 @@ In this book, co-emergence refers to the possibility that life and consciousness
 
 Co-emergence offers a middle path between strict life-first emergentism and broad consciousness-first metaphysics. It treats consciousness as rooted in living organization without reducing it to mechanical function.
 
----
+***
 
 ## Moral Status
 
@@ -274,7 +274,7 @@ Sentient beings are usually considered to have moral status because they can exp
 
 The concept is important in discussions of animals, ecosystems, artificial intelligence, and simple organisms. If we cannot determine consciousness with certainty, moral status may require precaution, humility, and layered ethical frameworks.
 
----
+***
 
 ## Personhood
 
@@ -284,7 +284,7 @@ Personhood is not identical to consciousness. A newborn infant may be conscious 
 
 The distinction matters because moral status, legal personhood, and consciousness do not always overlap.
 
----
+***
 
 ## Reduction vs Explanation
 
@@ -294,7 +294,7 @@ For example, life can be explained through chemistry without saying that organis
 
 This distinction helps avoid false choices. A theory can respect neuroscience while also recognizing that subjective experience requires its own conceptual vocabulary.
 
----
+***
 
 ## First-Person Perspective
 
@@ -302,7 +302,7 @@ The first-person perspective is experience as lived from within. It is the persp
 
 Consciousness is unusual because it is known most directly from the first-person perspective but studied scientifically from the third-person perspective. This creates many of the methodological challenges discussed in the book.
 
----
+***
 
 ## Third-Person Perspective
 
@@ -310,7 +310,7 @@ The third-person perspective is the external, observational standpoint used in s
 
 Third-person methods are essential for studying life and consciousness, but they may not fully capture subjective experience. A complete approach to consciousness may need to integrate first-person, second-person, and third-person methods.
 
----
+***
 
 ## Second-Person Perspective
 
@@ -318,8 +318,6 @@ The second-person perspective involves direct engagement with another subject. I
 
 Second-person methods are important in consciousness studies because they help bridge the gap between external measurement and lived experience. They are especially relevant in medicine, disability studies, psychotherapy, and developmental research.
 
----
+***
 
-## Further Terms to Add
-
-Additional philosophical terms can be added as the book develops, especially if future chapters expand discussions of ethics, artificial intelligence, quantum theory, Indigenous philosophy, or contemplative traditions.
+This appendix provides a working vocabulary for the major philosophical concepts used throughout the book.

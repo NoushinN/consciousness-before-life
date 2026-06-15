@@ -12,7 +12,7 @@ Emergentism has major strengths. It fits well with neuroscience, evolution, medi
 
 The chapter therefore asks a central question: can emergence explain consciousness itself, or only the biological and neural conditions under which consciousness appears?
 
----
+***
 
 ## What Is Emergence?
 
@@ -32,7 +32,7 @@ The ontological status of emergent properties also matters. Are emergent propert
 
 For the central question of this book, emergence usually supports a life-first model. Matter becomes organized into life. Life becomes organized into nervous systems. Nervous systems become organized into conscious brains. But this raises the key problem: what kind of organization is sufficient, and why should it produce experience?
 
----
+***
 
 ## Neural Correlates of Consciousness
 
@@ -52,7 +52,7 @@ Its limitation is that correlation is not explanation. NCCs tell us what neural 
 
 For emergentism, NCCs are essential but incomplete. They locate the biological conditions of consciousness. They do not, by themselves, solve the hard problem.
 
----
+***
 
 ## Biological Naturalism
 
@@ -72,7 +72,7 @@ Its weakness is that it may not fully explain how biological processes produce s
 
 For the central question, biological naturalism strongly supports the life-first model. Consciousness emerges from biological organization, especially neural organization. Life is not sufficient for consciousness, but life provides the biological substrate from which consciousness arises.
 
----
+***
 
 ## Neurobiological Theories of Consciousness
 
@@ -94,7 +94,7 @@ However, functional explanations do not fully solve the problem of experience. T
 
 For the central question, neurobiological theories provide a strong bridge between life and consciousness. They suggest that consciousness is not merely in the brain, but in the brain-body system of a living organism. Consciousness emerges from life, but specifically from life organized around nervous regulation, embodiment, emotion, and action.
 
----
+***
 
 ## Higher-Order Theories
 
@@ -118,7 +118,7 @@ For the central question, higher-order theories place consciousness relatively l
 
 This supports emergentism but raises the threshold problem: how much self-monitoring is enough?
 
----
+***
 
 ## Strengths and Limitations of Emergentism
 
@@ -142,7 +142,7 @@ Finally, emergentism faces the transition problem. If consciousness emerged grad
 
 Emergentism is powerful because it places consciousness within life. But it remains incomplete unless it explains why and how living complexity becomes experience.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -160,7 +160,15 @@ This is the transition problem. It is not enough to say that consciousness emerg
 
 Emergentism therefore provides the dominant life-first answer to the central question. But its success depends on whether it can explain the emergence of experience itself, not only its biological correlates.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that contemporary scientific theories do not locate consciousness in the same place. Some place it in global access, some in integrated information, some in prediction, some in attention, some in recurrent processing, and some in biological embodiment.
+
+The question therefore becomes theory-dependent. If consciousness is global broadcast, it may require advanced brains. If it is integration, it may be more widespread. If it is biological regulation, it may be rooted in life. Different theories give different answers to where consciousness begins.
+
+***
 
 ## Chapter Summary
 

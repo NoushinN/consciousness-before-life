@@ -6,7 +6,7 @@ This appendix provides a chronological timeline of key theories, discoveries, pu
 
 The timeline is not exhaustive. It is intended as a reference map showing how the central question of this book has developed across history: whether consciousness emerges from life, precedes life, or co-emerges with living organization.
 
----
+***
 
 ## Ancient and Classical Period
 
@@ -26,7 +26,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | ~300 BCE     | Stoic philosophers develop the concept of *pneuma*, a rational organizing principle pervading nature.                                   |
 | ~250 CE      | Plotinus develops Neoplatonic emanation theory, with reality flowing from the One through Nous and Soul.                                |
 
----
+***
 
 ## Medieval and Early Religious-Philosophical Developments
 
@@ -38,7 +38,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | ~1225–1274    | Thomas Aquinas develops a hylomorphic account of the soul as the form of the living body.                                            |
 | ~1200–1500    | Vedanta, Buddhist, Sufi, and other contemplative traditions continue developing consciousness-centered metaphysics and practices.    |
 
----
+***
 
 ## Early Modern Period
 
@@ -54,7 +54,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 1781      | Kant publishes *Critique of Pure Reason*, arguing that the mind structures experience and that reality-in-itself remains beyond direct knowledge. |
 | 1788      | Kant publishes *Critique of Practical Reason*, further developing the relation between rational agency, freedom, and moral consciousness.         |
 
----
+***
 
 ## Nineteenth Century
 
@@ -71,7 +71,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 1890        | William James publishes *The Principles of Psychology*, including influential discussions of the stream of consciousness.         |
 | 1896        | Bergson publishes *Matter and Memory*, arguing against purely mechanistic accounts of mind.                                       |
 
----
+***
 
 ## Early Twentieth Century
 
@@ -91,7 +91,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 1948 | Norbert Wiener publishes *Cybernetics*, connecting control, communication, feedback, organisms, and machines.                |
 | 1949 | Hebb publishes *The Organization of Behavior*, proposing principles of neural learning and plasticity.                       |
 
----
+***
 
 ## Mid-Twentieth Century
 
@@ -113,7 +113,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 1976  | Dawkins publishes *The Selfish Gene*, popularizing gene-centered evolutionary thinking.                                      |
 | 1977  | Woese and Fox identify archaea as a distinct domain of life, reshaping the tree of life.                                     |
 
----
+***
 
 ## Late Twentieth Century
 
@@ -138,7 +138,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 1998 | Clark and Chalmers publish “The Extended Mind,” arguing that cognition can extend beyond the brain.                    |
 | 1999 | Damasio publishes *The Feeling of What Happens*, linking consciousness, emotion, body, and self.                       |
 
----
+***
 
 ## Early Twenty-First Century
 
@@ -170,7 +170,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 2000s–present | Mohammad Ali Taheri develops the T-Consciousness framework, proposing consciousness as a fundamental, non-material reality expressed through consciousness fields rather than produced by matter or the brain. |
 | 2019 | Developments in AI language modelling begin intensifying debates about artificial understanding and machine consciousness.         |
 
----
+***
 
 ## Recent Developments
 
@@ -189,7 +189,7 @@ The timeline is not exhaustive. It is intended as a reference map showing how th
 | 2024 | Assembly theory and related life-detection frameworks remain influential in origin-of-life and astrobiology discussions.                             |
 | 2025 | Ongoing consciousness research increasingly emphasizes adversarial testing, theory comparison, AI, animal sentience, and ethical uncertainty.        |
 
----
+***
 
 ## Thematic Summary
 

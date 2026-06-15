@@ -12,7 +12,7 @@ This chapter introduces the central question of the book: what is the relationsh
 
 The aim is not to resolve the question immediately. Instead, this chapter sets the stage for the inquiry that follows.
 
----
+***
 
 ## The Paradox
 
@@ -36,7 +36,7 @@ If life came first, then consciousness must be explained as something that emerg
 
 Each answer changes how we understand biology, mind, matter, and the place of human beings in nature.
 
----
+***
 
 ## Why the Question Has Been Avoided
 
@@ -56,7 +56,7 @@ Yet avoiding the question does not make it disappear. If life is the condition u
 
 The question has been avoided not because it is unimportant, but because it is difficult to place within existing academic boundaries.
 
----
+***
 
 ## The Three Possible Answers
 
@@ -90,7 +90,7 @@ Each of these three answers carries a different worldview. The life-first view e
 
 This book examines all three possibilities.
 
----
+***
 
 ## Scope and Boundaries
 
@@ -106,7 +106,7 @@ This means the discussion will move across scientific, philosophical, and specul
 
 The goal is not to collapse science into metaphysics or metaphysics into science. The goal is to clarify what can be known, what remains uncertain, and what kinds of questions become visible when life and consciousness are examined together.
 
----
+***
 
 ## A Map of the Book
 
@@ -132,7 +132,15 @@ Readers from different backgrounds may enter the book differently. Those interes
 
 The full argument, however, develops across the whole book. It begins with definitions, moves through history and science, and ends with synthesis and implications.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by clarifying that life is not merely matter arranged in a complex way. Life involves boundary, metabolism, self-maintenance, adaptation, reproduction, and continuity over time. These features make living systems different from ordinary physical systems.
+
+The question therefore becomes sharper: if consciousness emerged from life, which features of life made that emergence possible? Was it metabolism, self-maintenance, responsiveness, information processing, or the organism’s need to preserve itself as a living whole?
+
+***
 
 ## Chapter Summary
 

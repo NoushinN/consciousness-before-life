@@ -40,7 +40,7 @@ Tononi, G. (2008). Consciousness as integrated information: A provisional manife
 
 Tononi, G., Boly, M., Massimini, M., & Koch, C. (2016). Integrated information theory: From consciousness to its physical substrate. *Nature Reviews Neuroscience*, 17, 450–461.
 
----
+***
 
 ## Philosophy of Mind and Metaphysics
 
@@ -78,7 +78,7 @@ Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Jou
 
 Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
----
+***
 
 ## Consciousness-First, Idealist, Panpsychist, and T-Consciousness Sources
 
@@ -98,27 +98,27 @@ Shani, I. (2015). Cosmopsychism: A holistic approach to the metaphysics of exper
 
 Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10–11), 3–31.
 
-Taheri, M. A. (2006). *Cosmic Mysticism / Erfan-e-Kayhani (Halgheh)*. Persian edition. Publication details to be verified.
+Taheri, M. A. (2006). *Cosmic Mysticism / Erfan-e-Kayhani (Halgheh)*. Persian edition. 
 
-Taheri, M. A. (2007). *Human from Another Outlook*. Persian edition. Publication details to be verified.
+Taheri, M. A. (2007). *Human from Another Outlook*. Persian edition. 
 
-Taheri, M. A. (2010). *The Relationship Between Ethics and Mysticism*. Persian edition. Publication details to be verified.
+Taheri, M. A. (2010). *The Relationship Between Ethics and Mysticism*. Persian edition. 
 
-Taheri, M. A. (2011). *Human and Knowledge*. Persian edition. Publication details to be verified.
+Taheri, M. A. (2011). *Human and Knowledge*. Persian edition. 
 
-Taheri, M. A. (n.d.). *Halqeh Mysticism: Interuniversal Mysticism, Volume 1*. Interuniversal Press. Edition details to be verified.
+Taheri, M. A. (n.d.). *Halqeh Mysticism: Interuniversal Mysticism, Volume 1*. Interuniversal Press. 
 
-Taheri, M. A. (n.d.). *Human Insight*. CreateSpace / Interuniversal Press. Edition details to be verified.
+Taheri, M. A. (n.d.). *Human Insight*. CreateSpace / Interuniversal Press. 
 
-Taheri, M. A. (n.d.). *Human Worldview*. Interuniversal Press. Edition details to be verified.
+Taheri, M. A. (n.d.). *Human Worldview*. Interuniversal Press. 
 
-Taheri, M. A. (n.d.). *Psymentology, Volume 1*. Publication details to be verified.
+Taheri, M. A. (n.d.). *Psymentology, Volume 1*. 
 
-Taheri, M. A. (n.d.). *Nonorganic Viruses*. CreateSpace Independent Publishing Platform. Edition details to be verified.
+Taheri, M. A. (n.d.). *Nonorganic Viruses*. CreateSpace Independent Publishing Platform. 
 
-Taheri, M. A. (n.d.). *Non-Organic Beings*. Interuniversal Press. Edition details to be verified.
+Taheri, M. A. (n.d.). *Non-Organic Beings*. Interuniversal Press. 
 
----
+***
 
 ## Origin of Life, Abiogenesis, and Self-Organization
 
@@ -154,7 +154,7 @@ Szostak, J. W. (2012). The eightfold path to non-enzymatic RNA replication. *Jou
 
 Walker, S. I., & Davies, P. C. W. (2013). The algorithmic origins of life. *Journal of the Royal Society Interface*, 10(79), 20120869.
 
----
+***
 
 ## Autopoiesis, Enactivism, Biosemiotics, and Basal Cognition
 
@@ -182,7 +182,7 @@ Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard p
 
 Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 
----
+***
 
 ## Evolution of Consciousness and Animal Minds
 
@@ -204,7 +204,7 @@ Griffin, D. R. (1976). *The Question of Animal Awareness*. Rockefeller Universit
 
 Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Faber & Faber.
 
----
+***
 
 ## Predictive Processing, Free Energy, and Information-Based Frameworks
 
@@ -220,7 +220,7 @@ Parr, T., Pezzulo, G., & Friston, K. J. (2022). *Active Inference: The Free Ener
 
 Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences*, 17(11), 565–573.
 
----
+***
 
 ## Quantum, Speculative, and Physical Frameworks
 
@@ -244,7 +244,7 @@ Wheeler, J. A. (1990). Information, physics, quantum: The search for links. In W
 
 Wigner, E. P. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*. Heinemann.
 
----
+***
 
 ## Artificial Intelligence, Artificial Life, and Machine Consciousness
 
@@ -260,7 +260,7 @@ Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem o
 
 Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433–460.
 
----
+***
 
 ## Ethics, Moral Status, and Sentience
 
@@ -278,7 +278,7 @@ Singer, P. (2011). *The Expanding Circle: Ethics, Evolution, and Moral Progress*
 
 Singer, P. (1975). *Animal Liberation*. HarperCollins.
 
----
+***
 
 ## Indigenous, Relational, and Ecological Perspectives
 
@@ -292,6 +292,6 @@ Plumwood, V. (2002). *Environmental Culture: The Ecological Crisis of Reason*. R
 
 Watts, V. (2013). Indigenous place-thought and agency amongst humans and non-humans. *Decolonization: Indigeneity, Education & Society*, 2(1), 20–34.
 
----
+***
 
 

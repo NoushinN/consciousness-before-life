@@ -10,7 +10,7 @@ This chapter traces early approaches to the relationship between life and consci
 
 The goal is not to romanticize ancient thought or treat it as a substitute for science. Rather, the aim is to show that the modern separation between life and mind is historically recent. In many classical frameworks, the living, the mental, and the cosmic were deeply connected from the start.
 
----
+***
 
 ## Pre-Socratic Thought
 
@@ -28,7 +28,7 @@ These early thinkers did not sharply divide physics, biology, and psychology. Th
 
 For the central question of this book, pre-Socratic thought is important because it begins from a different assumption than modern mechanistic science. It does not ask how life and consciousness emerged from dead matter. It asks how the living order of nature differentiates itself from a primordial source. In this sense, matter and life were not originally separated.
 
----
+***
 
 ## The Atomists
 
@@ -46,7 +46,7 @@ The atomists therefore offer an early life-first or matter-first framework. Matt
 
 For the purposes of this book, the atomists show that material explanations of consciousness are ancient, not modern inventions. They also show that the central difficulty of materialism is ancient as well: how can arrangements of matter produce experience, agency, or inner life?
 
----
+***
 
 ## Plato and the Soul
 
@@ -64,7 +64,7 @@ Of course, Plato’s view is not a scientific theory in the modern sense. It doe
 
 For Plato, the soul is not reducible to body. Life and consciousness point beyond physical mechanism toward a deeper metaphysical structure.
 
----
+***
 
 ## Aristotle and the Scale of Nature
 
@@ -84,7 +84,7 @@ For the central question of this book, Aristotle offers a middle path. He does n
 
 This makes Aristotle especially relevant to contemporary debates about embodiment, biological naturalism, and the continuity between life and cognition.
 
----
+***
 
 ## Stoicism and Pneuma
 
@@ -102,7 +102,7 @@ For the central question of this book, Stoicism is important because it refuses 
 
 This does not answer the origin-of-life question in modern terms. But it offers an alternative framework: life and consciousness may not be isolated accidents, but expressions of a universe already structured by active order.
 
----
+***
 
 ## Neoplatonism
 
@@ -122,7 +122,7 @@ Modern science largely moved away from this framework. Yet the questions Neoplat
 
 These questions continue to echo in contemporary discussions of idealism, panpsychism, and consciousness-first theories.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -136,7 +136,15 @@ The historical lesson is not that ancient philosophers had all the answers. They
 
 For the central question of this book, this matters. The question “which came first, life or consciousness?” is partly a modern question because modern thought has separated life from mind. Ancient thought reminds us that other starting points are possible.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that some traditions do not begin with matter as primary. Eastern and contemplative traditions often treat consciousness as pervasive, foundational, or inseparable from reality.
+
+The question therefore expands beyond a strictly material sequence. Instead of asking only how matter became alive and then conscious, we must also consider traditions in which consciousness is prior to, deeper than, or inseparable from living form.
+
+***
 
 ## Chapter Summary
 

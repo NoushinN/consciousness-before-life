@@ -12,7 +12,7 @@ The focus of this chapter is not to decide which model is correct. Instead, the 
 
 The question is therefore not whether early molecules were conscious in any ordinary sense. The question is whether the transition from chemistry to life already introduced structures that later made consciousness possible.
 
----
+***
 
 ## The Problem of Abiogenesis
 
@@ -30,7 +30,7 @@ Since then, origin-of-life research has moved in many directions. Some researche
 
 For the consciousness question, abiogenesis introduces a key issue. If life begins as chemistry, then consciousness appears much later. But if life begins when chemistry becomes organized, self-maintaining, and responsive, then the origin of life may already contain the structural beginnings of cognition, even if not experience.
 
----
+***
 
 ## RNA World Hypothesis
 
@@ -48,7 +48,7 @@ Yet the RNA world is still relevant. It shows how information can become causall
 
 The consciousness implication is therefore indirect. The RNA world does not make consciousness likely at the origin of life. But it helps explain how matter can become informationally organized, and informational organization is one of the later foundations of cognition and consciousness.
 
----
+***
 
 ## Metabolism-First Models
 
@@ -68,7 +68,7 @@ For the consciousness question, metabolism-first models are especially interesti
 
 This does not mean early metabolism had experience. But it does suggest that life begins not with passive matter, but with organized activity. If consciousness later depends on living systems that regulate themselves, preserve their organization, and respond to conditions, then metabolism-first models bring us closer to the roots of cognition than purely genetic models do.
 
----
+***
 
 ## Protocells and Compartmentalization
 
@@ -88,7 +88,7 @@ This is one reason protocell models are relevant to the origin of cognition. Cog
 
 If consciousness eventually depends on perspective, then compartmentalization may be one of the earliest physical roots of perspective.
 
----
+***
 
 ## Autocatalytic Sets and Chemical Self-Organization
 
@@ -108,7 +108,7 @@ Does collective self-sustenance imply experience? Not by itself. A chemical netw
 
 Such loops may be precursors to biological identity, agency, and cognition. They do not explain consciousness, but they help explain how matter can become organized around its own continuation.
 
----
+***
 
 ## Thermodynamic and Dissipative Approaches
 
@@ -128,7 +128,7 @@ For the consciousness question, thermodynamic models raise a provocative possibi
 
 This does not mean consciousness is thermodynamically inevitable. But it suggests that the roots of life and perhaps the roots of mind may lie in the same broader tendency: the emergence of organized processes in far-from-equilibrium systems.
 
----
+***
 
 ## Assembly Theory
 
@@ -148,7 +148,7 @@ Assembly theory also emphasizes that life is not just matter in the present mome
 
 For the central question, assembly theory does not imply consciousness at the origin of life. But it reinforces the idea that life begins when matter enters a new regime of historically structured complexity. That regime may later make consciousness possible.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -168,7 +168,15 @@ The central question therefore becomes sharper. Did consciousness appear only wh
 
 Origin-of-life models cannot yet answer this question. But they show where to look.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that life and consciousness may both depend on information, complexity, and self-organization. The gap between matter and life, and the gap between life and consciousness, may not be separate mysteries but related transitions in organization.
+
+The question therefore shifts from a simple before-or-after sequence to a question of pattern and process. Perhaps consciousness does not appear from matter alone, but from organized systems that integrate information, maintain themselves, respond to the world, and generate meaning.
+
+***
 
 ## Chapter Summary
 

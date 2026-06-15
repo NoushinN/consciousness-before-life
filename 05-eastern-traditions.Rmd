@@ -8,7 +8,7 @@ In many Eastern frameworks, consciousness is not treated as a late by-product of
 
 This chapter surveys several traditions relevant to the central question of this book. The aim is not to reduce these traditions to modern scientific categories, nor to treat them as evidence in a simplistic way. Rather, the goal is to examine how they widen the conceptual space. They show that the relationship between consciousness and life can be framed in ways that are not limited to the modern question of how brains produce experience.
 
----
+***
 
 ## Hindu Philosophy and Consciousness
 
@@ -28,7 +28,7 @@ These Hindu traditions are important for the central question because they offer
 
 A modern reader need not accept these metaphysical claims literally in order to learn from them. Their importance lies in the questions they make possible. What if consciousness is not something added to matter from the outside, nor produced by matter from the inside, but the condition through which the world is known at all? What if life is not the origin of consciousness, but one of its appearances?
 
----
+***
 
 ## Buddhist Perspectives
 
@@ -50,7 +50,7 @@ For the central question of this book, Buddhism provides a distinctive alternati
 
 This is relevant to co-emergence views. If life and consciousness are both relational processes, then the question may not be which came first as a separate entity. The deeper question may be how conditions give rise to forms of experience, responsiveness, and world-making.
 
----
+***
 
 ## Daoist Thought
 
@@ -70,7 +70,7 @@ Daoist thought therefore destabilizes rigid distinctions between self and world,
 
 For the central question of this book, Daoism offers a framework close to co-emergence. Life and awareness are not separate substances but movements within a larger process. Consciousness is not necessarily a late addition to nature; it is one way nature becomes responsive, reflective, and aware through its own unfolding.
 
----
+***
 
 ## Jain Philosophy
 
@@ -90,7 +90,7 @@ For the purposes of this book, Jain philosophy provides a direct challenge to th
 
 This makes Jain thought especially important for co-emergence theories and for discussions of moral status. If consciousness begins with life, then the origin of life is also, in some minimal sense, the origin of sentience.
 
----
+***
 
 ## Indigenous and Non-Western Perspectives
 
@@ -110,7 +110,7 @@ For the central question of this book, Indigenous and relational perspectives of
 
 This does not mean that all Indigenous traditions make the same metaphysical claim. Rather, it means that many offer alternatives to the modern image of consciousness as a private mental state inside an individual brain. Consciousness may also be ecological, relational, and world-involving.
 
----
+***
 
 ## Comparative Analysis
 
@@ -130,7 +130,7 @@ Western science can learn from these traditions not by abandoning empirical rigo
 
 These traditions do not provide simple answers. They provide alternative starting points.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -150,7 +150,15 @@ These traditions also raise methodological questions. Modern consciousness scien
 
 The central question therefore becomes broader. It is not only whether consciousness came before or after life. It is also whether consciousness can be understood from a purely third-person perspective, or whether first-person and relational methods are necessary for a complete account.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that modern philosophy frames the life-consciousness relationship through competing metaphysical assumptions. Dualism, physicalism, idealism, panpsychism, neutral monism, and process philosophy each begin from a different view of what reality is made of.
+
+The question therefore becomes dependent on metaphysical starting points. If matter is primary, consciousness must be explained as an emergence from life or brain activity. If consciousness is primary, life may be understood as an expression within consciousness. If reality has both mental and physical aspects, life and consciousness may co-emerge from a deeper ground.
+
+***
 
 ## Chapter Summary
 

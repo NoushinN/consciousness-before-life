@@ -12,7 +12,7 @@ The central issue is the divide between sensing and feeling. Many organisms dete
 
 This chapter does not assume that all living systems are conscious. Instead, it asks how far back the roots of consciousness might extend, and whether evolution supports a sharp boundary or a gradual continuum between life, cognition, and experience.
 
----
+***
 
 ## Minimal Cognition: Defining the Starting Point
 
@@ -30,7 +30,7 @@ The difficult question is where mere mechanism ends and cognition begins. If eve
 
 This definition does not prove consciousness. But it establishes the starting point. Before life could become conscious, it first had to become responsive in ways that mattered to its own continuation.
 
----
+***
 
 ## Bacterial Intelligence
 
@@ -50,7 +50,7 @@ This may be a minimal form of biological intentionality: not conscious meaning, 
 
 Whether this is consciousness is another matter. Bacterial intelligence shows that cognition-like processes exist without nervous systems. It does not show that bacteria have experience. But it reveals that life is already world-directed at very simple levels.
 
----
+***
 
 ## Protists and Single-Celled Decision-Making
 
@@ -72,7 +72,7 @@ What protists show is that the roots of cognition are cellular. Neurons did not 
 
 For the central question, this is important. If consciousness evolved from cognition, then the pre-neural world already contained many of the functional ingredients from which consciousness later developed.
 
----
+***
 
 ## Plant Cognition and Signaling
 
@@ -92,7 +92,7 @@ Plants are important for the evolution of consciousness because they separate co
 
 For the central question, plants suggest that life became cognitively active long before nervous systems. Whether that cognition includes feeling remains unresolved.
 
----
+***
 
 ## Fungal Networks and Distributed Intelligence
 
@@ -112,7 +112,7 @@ For the evolution of consciousness, fungi suggest that distributed intelligence 
 
 This question will recur when we consider nervous systems. Consciousness may require not only information exchange, but some form of integrated perspective.
 
----
+***
 
 ## Sensing vs Feeling: The Critical Divide
 
@@ -134,7 +134,7 @@ Both views face difficulties. Sharp boundary views must justify the boundary. Gr
 
 The sensing-feeling divide is therefore the critical divide. It is the point where the evolution of cognition becomes the evolution of consciousness.
 
----
+***
 
 ## Memory and Learning Without Brains
 
@@ -154,7 +154,7 @@ Non-neural memory shows that the ingredients of consciousness may have deep biol
 
 For the central question, memory without brains supports continuity between life and mind, but it does not eliminate the need for a threshold or transition into feeling.
 
----
+***
 
 ## The Emergence of Nervous Systems
 
@@ -172,7 +172,7 @@ This evolutionary context may have driven the emergence of consciousness. Consci
 
 If this is correct, consciousness is closely tied to animal life: movement, sensing, action, and nervous integration. Life came first, but consciousness emerged when life became mobile, embodied, and neurally integrated in new ways.
 
----
+***
 
 ## Key Evolutionary Candidates
 
@@ -192,7 +192,7 @@ The key evolutionary candidates therefore include animals with integrated sensor
 
 For the central question, these candidates support a life-first view with a gradual transition. Life began long before consciousness, but consciousness may have emerged in multiple animal lineages as nervous systems became capable of integrated experience.
 
----
+***
 
 ## Theoretical Frameworks for Basal Cognition
 
@@ -214,7 +214,7 @@ These frameworks help clarify the options. If consciousness is integrated inform
 
 Basal cognition does not settle the issue, but it shows that the path from life to consciousness is not empty. It is filled with intermediate forms of sensing, memory, agency, and self-regulation.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -232,7 +232,15 @@ For the central question, the answer depends on where we place the threshold. If
 
 The key unresolved problem remains the same: how do we determine where sensing ends and experiencing begins?
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by identifying the hardest point in the life-first story: the transition from living organization to subjective experience. Explaining life is not the same as explaining what it is like to be alive.
+
+The question therefore becomes: when does biological activity become felt experience? Life-first theories must explain this transition, while consciousness-first theories must explain how consciousness becomes embodied and localized. In both cases, the hard transition remains central.
+
+***
 
 ## Chapter Summary
 

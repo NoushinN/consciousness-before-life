@@ -8,15 +8,16 @@ documentclass: book
 classoption:
   - oneside
   - openany
-geometry: margin=1in
-bibliography: [references.bib]
-biblio-style: apalike
-link-citations: yes
-description: "An interdisciplinary synthesis exploring the relationship between the origin of life and the emergence of consciousness."
+geometry: "margin=1in"
+bibliography:
+  - references.bib
+biblio-style: "apalike"
+link-citations: true
+description: >
+  An interdisciplinary synthesis exploring the relationship between the
+  origin of life and the emergence of consciousness.
 header-includes:
   - \usepackage{pdflscape}
-  - \usepackage{setspace}
-  - \usepackage{titlesec}
 ---
 
 \newpage

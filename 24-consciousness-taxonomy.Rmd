@@ -56,7 +56,7 @@ render_taxonomy_table <- function(data, caption, widths, font_size = 8, landscap
 }
 ```
 
----
+***
 
 ## Types of Consciousness
 
@@ -120,7 +120,7 @@ render_taxonomy_table(
 
 This table shows that consciousness is not a single simple category. Some uses of the term refer to lived experience, while others refer to information access, self-reflection, sentience, cosmic awareness, artificial systems, or consciousness-first metaphysics.
 
----
+***
 
 ## By Biological Level
 
@@ -188,7 +188,7 @@ render_taxonomy_table(
 
 The biological taxonomy shows why the consciousness question becomes difficult at the lower levels of life. Evidence is strongest in humans and many vertebrates, increasingly plausible in some invertebrates, debated in plants and unicellular organisms, and highly speculative at the molecular level.
 
----
+***
 
 ## By Ontological Level
 
@@ -241,7 +241,7 @@ render_taxonomy_table(
 
 This table helps distinguish theories that locate consciousness in brains, nervous systems, life, information, function, matter, the cosmos, consciousness fields, or mind itself.
 
----
+***
 
 ## Levels and Dimensions
 
@@ -315,7 +315,7 @@ render_taxonomy_table(
 
 Consciousness is not only present or absent. It varies across dimensions such as wakefulness, awareness, selfhood, agency, integration, reportability, and meaning. This is why a graded model is often more useful than a simple yes-or-no model.
 
----
+***
 
 ## States of Consciousness
 
@@ -416,7 +416,7 @@ render_taxonomy_table(
 
 States of consciousness show that wakefulness and awareness are not the same. A dreaming person may have vivid experience with reduced wakefulness, while a locked-in patient may have high awareness but little or no motor expression.
 
----
+***
 
 ## Theory Classification
 
@@ -503,7 +503,7 @@ render_taxonomy_table(
 
 This classification shows that theories of consciousness often differ less in evidence than in starting assumptions. A physicalist, an idealist, and a T-Consciousness theorist may all discuss consciousness, but they locate it at very different levels of reality.
 
----
+***
 
 ## By Mechanism
 
@@ -579,7 +579,7 @@ render_taxonomy_table(
 
 Mechanism-based classification is useful because some theories are scientific models while others are metaphysical frameworks. Global Workspace Theory, Recurrent Processing Theory, and Attention Schema Theory propose mechanisms inside cognitive systems. Idealism, panpsychism, and Taheri’s T-Consciousness framework begin from broader claims about the nature of reality.
 
----
+***
 
 ## By Relation to Life
 
@@ -651,7 +651,7 @@ render_taxonomy_table(
 
 This table directly connects the taxonomy to the central question of the book. Some theories place life before consciousness. Others place consciousness before life. Co-emergence views suggest that the relationship may not be strictly sequential.
 
----
+***
 
 ## By Evidence Type
 
@@ -723,7 +723,7 @@ render_taxonomy_table(
 
 Different kinds of evidence answer different questions. First-person reports are powerful but limited to beings who can report. Behaviour is widely available but may not prove experience. Neural evidence is strong in animals with nervous systems but does not apply easily to plants, microbes, or artificial systems. Formal measures offer precision but may miss lived experience.
 
----
+***
 
 ## Summary of Main Taxonomic Distinctions
 
@@ -780,7 +780,7 @@ render_taxonomy_table(
 )
 ```
 
----
+***
 
 ## Taxonomic Caution
 

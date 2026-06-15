@@ -59,7 +59,7 @@ render_comparison_table <- function(data, caption, widths, font_size = 8, landsc
 ```
 
 
----
+***
 
 ## Consciousness Theories Compared
 
@@ -209,7 +209,7 @@ render_comparison_table(
 
 This table shows that scientific theories tend to focus on mechanisms of access, integration, prediction, attention, recurrence, or biological organization. Philosophical and consciousness-first theories focus more directly on the ontological status of consciousness and the hard problem.
 
----
+***
 
 ## Origin-of-Life Models and Consciousness Implications
 
@@ -308,7 +308,7 @@ render_comparison_table(
 
 Origin-of-life models usually explain biological organization without directly explaining subjective experience. Models that emphasize autopoiesis, biosemiotics, and consciousness-enabled life are more relevant to the central question because they connect life with agency, meaning, or consciousness.
 
----
+***
 
 ## Where Each Theory Places the Transition
 
@@ -422,7 +422,7 @@ render_comparison_table(
 
 This comparison shows why the “hard transition” remains difficult. Life-first theories must identify when biological or neural complexity becomes experience. Consciousness-first theories avoid this transition but inherit other problems, especially mechanism and testability.
 
----
+***
 
 ## Philosophical Frameworks Compared
 
@@ -549,7 +549,7 @@ render_comparison_table(
 
 Philosophical frameworks differ in what they treat as fundamental. Some begin with matter, some with consciousness, and others with a deeper neutral or process-based reality. These starting points strongly shape how each theory interprets life and consciousness.
 
----
+***
 
 ## Life-First, Consciousness-First, and Co-Emergence Compared
 
@@ -623,7 +623,7 @@ render_comparison_table(
 
 This table compares the three main families of answers developed throughout the book. Life-first theories are strongest scientifically, consciousness-first theories are strongest metaphysically, and co-emergence theories attempt to bridge life, cognition, and experience.
 
----
+***
 
 ## Artificial Consciousness Models Compared
 
@@ -702,7 +702,7 @@ render_comparison_table(
 
 Artificial consciousness tests whether biological life is necessary for experience. If consciousness depends only on functional organization, then AI could in principle be conscious. If consciousness depends on living embodiment, then artificial life may be more relevant than ordinary computation. If consciousness is fundamental, AI may raise a different question: how consciousness becomes individualized or expressed through artificial systems.
 
----
+***
 
 ## Ethical Implications Compared
 
@@ -782,7 +782,7 @@ render_comparison_table(
 
 The ethical implications of consciousness theories are not secondary. They shape how we treat animals, ecosystems, artificial systems, and life itself. The wider the theory places consciousness or sentience, the more expansive its moral implications become.
 
----
+***
 
 ## Methodological Approaches Compared
 
@@ -862,7 +862,7 @@ render_comparison_table(
 
 No single method is sufficient. Consciousness research requires behavioural, neural, phenomenological, comparative, formal, and ethical approaches. The central challenge is that consciousness is known directly from within but studied scientifically from without.
 
----
+***
 
 ## Theory Strengths and Weaknesses at a Glance
 
@@ -938,7 +938,7 @@ render_comparison_table(
 )
 ```
 
----
+***
 
 ## Summary
 

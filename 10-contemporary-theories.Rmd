@@ -8,7 +8,7 @@ This chapter surveys several leading scientific theories of consciousness: Globa
 
 The theories differ sharply. Some imply that consciousness requires specific brain architecture. Others suggest that consciousness may be graded and more widespread. Some are strongly biological; others are more computational, informational, or physical. These differences matter for the central question of this book. If consciousness requires a global neuronal workspace, then life comes first and consciousness appears only in certain nervous systems. If consciousness is integrated information, then consciousness may be more continuous with life, matter, or self-organization. If consciousness is linked to predictive regulation, then the boundary between life and mind may become less sharp.
 
----
+***
 
 ## Global Workspace Theory
 
@@ -28,7 +28,7 @@ However, the theory faces limitations. It may explain how information becomes av
 
 For the central question, Global Workspace Theory supports a life-first and brain-first view. Consciousness requires specific neural architecture. Life must first evolve nervous systems capable of large-scale integration and broadcasting. Consciousness is therefore not present at the origin of life, but appears later in biological evolution.
 
----
+***
 
 ## Integrated Information Theory
 
@@ -48,7 +48,7 @@ IIT is one of the most ambitious contemporary theories, but it is also controver
 
 Still, IIT makes an important contribution. It shifts the question from what a system does outwardly to what kind of intrinsic organization it has. It asks whether consciousness is not merely information processing, but integrated causal structure from the system’s own point of view.
 
----
+***
 
 ## Predictive Processing and the Free Energy Principle
 
@@ -72,7 +72,7 @@ Its limitation is that prediction alone may not explain experience. A thermostat
 
 For the central question, predictive processing and the Free Energy Principle support a co-emergence-friendly view. Consciousness may not be present in all life, but the roots of consciousness may lie in the same predictive and regulatory processes that define living systems.
 
----
+***
 
 ## Attention Schema Theory
 
@@ -92,7 +92,7 @@ Critics argue that AST may explain why systems claim to be conscious, but not wh
 
 For the central question, AST suggests that consciousness requires a sophisticated modeling system. Life alone is not enough. Consciousness appears when a nervous or artificial system develops a model of its own attention. This supports a life-first view for biological consciousness, but it also opens the possibility of substrate-independent functional consciousness in artificial systems.
 
----
+***
 
 ## Recurrent Processing Theory
 
@@ -112,7 +112,7 @@ The limitation is that recurrence may not be sufficient. Many systems contain fe
 
 For the central question, RPT supports a life-first view but places the threshold earlier than some global workspace models. Consciousness requires nervous systems with recurrent processing, but not necessarily human-like cognition or reflective self-awareness.
 
----
+***
 
 ## Orchestrated Objective Reduction — Brief Preview
 
@@ -126,7 +126,7 @@ The theory is controversial. Critics question whether quantum coherence could be
 
 For the central question, Orch-OR has unusual implications. If consciousness depends on quantum processes orchestrated in biological structures, then life still matters, but consciousness may also connect to deeper physical principles. This could make consciousness neither purely life-first nor simply consciousness-first, but dependent on an interaction between biology and fundamental physics.
 
----
+***
 
 ## Theory Comparison
 
@@ -234,7 +234,7 @@ No theory explains everything. GWT explains report and access well. IIT addresse
 
 The disagreement is not only about data. It is also about what consciousness is supposed to be: access, experience, integration, prediction, self-modeling, feedback, or something deeper.
 
----
+***
 
 ## The Adversarial Collaboration
 
@@ -252,7 +252,7 @@ Adversarial collaboration is therefore a major step forward, but not a final res
 
 For the central question of this book, adversarial collaboration matters because it shows that even the best contemporary theories remain unsettled. We do not yet have one accepted scientific account of consciousness. The relationship between life and consciousness therefore remains open.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -274,7 +274,15 @@ The answer determines whether consciousness is late, graded, widespread, biologi
 
 For the central question, contemporary theories do not yet provide a single answer. Instead, they reveal the range of possible answers still available within science.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by taking seriously the possibility that consciousness is not produced by life or matter. Consciousness-first theories reverse the usual direction of explanation and ask whether matter and life arise within consciousness rather than consciousness arising from them.
+
+The question therefore becomes: can consciousness be fundamental without becoming scientifically empty? Consciousness-first theories address the hard problem directly, but they must explain how consciousness gives rise to organized life, individual minds, and the stable physical world.
+
+***
 
 ## Chapter Summary
 

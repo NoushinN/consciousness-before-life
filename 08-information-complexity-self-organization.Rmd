@@ -8,7 +8,7 @@ This chapter explores these bridging frameworks. Information theory explains how
 
 The central argument is cautious but important: information, complexity, and self-organization do not automatically explain consciousness. They do not prove that early life was conscious. However, they may describe the common architecture through which chemistry becomes life and life becomes mind. If there is a bridge between life and consciousness, it may not be a single substance or a single event. It may be a deepening pattern of organized information, self-maintenance, feedback, and recursive self-reference.
 
----
+***
 
 ## Information Theory Foundations
 
@@ -26,7 +26,7 @@ This raises the question: is information physical? Landauer’s principle sugges
 
 This matters for the relationship between life and consciousness. If information is physical, then life and mind do not require a departure from nature. But if information is also organizational and causal, then life and mind cannot be understood as matter alone. We must understand how matter becomes structured in ways that store, process, and act upon information.
 
----
+***
 
 ## Information and the Origin of Life
 
@@ -44,7 +44,7 @@ This has important implications for consciousness. Consciousness also appears to
 
 If life begins when information becomes causally organized in self-maintaining systems, then consciousness may emerge when information becomes integrated, embodied, recursive, and available to a system as part of its own perspective. The origin of life does not explain experience, but it may create the first informational architecture from which experience can later arise.
 
----
+***
 
 ## Complexity and Emergence
 
@@ -64,7 +64,7 @@ Consciousness may require complexity that is integrated, embodied, self-referent
 
 The bridge between life and consciousness may therefore lie not in complexity alone, but in a special form of complexity: self-organizing, self-maintaining, informationally integrated complexity.
 
----
+***
 
 ## What Is Self-Organization?
 
@@ -82,7 +82,7 @@ Self-organization is relevant to the central question because both life and cons
 
 The key property is order from disorder under energy flow. But living and conscious systems add something further: they are not merely ordered; they are organized around their own continuation, regulation, and possible perspective.
 
----
+***
 
 ## Self-Organization in the Origin of Life
 
@@ -102,7 +102,7 @@ For the consciousness question, the important point is that self-organization in
 
 This suggests a possible continuity: self-organization may be the physical root; life may be self-organization that maintains itself; consciousness may be self-organization that becomes integrated and self-aware.
 
----
+***
 
 ## Autopoiesis: Life as Self-Making
 
@@ -122,7 +122,7 @@ Still, autopoiesis is valuable because it shows how life is already relational a
 
 For the central question, autopoiesis suggests that the roots of mind may lie in life’s self-making organization. Consciousness may not be present at the beginning of life, but the structure of self-related activity begins there.
 
----
+***
 
 ## Recursion and Self-Reference
 
@@ -140,7 +140,7 @@ The important point is that recursion creates the possibility of self-relation. 
 
 For the life-consciousness question, recursion may mark a deep continuity. Life begins with self-maintaining loops. Cognition develops through regulatory loops. Consciousness may require loops that become integrated into a first-person perspective. Self-awareness may require loops that explicitly model the self as self.
 
----
+***
 
 ## From Self-Organization to Self-Awareness
 
@@ -167,7 +167,7 @@ The critical threshold remains uncertain. When does functional self-reference be
 
 But the continuum suggests that consciousness may be rooted in life’s earliest self-organizing tendencies, even if it emerges only much later in richer forms.
 
----
+***
 
 ## Feedback Loops as a Bridging Concept
 
@@ -185,7 +185,7 @@ Feedback also helps explain why life is not passive. A living system does not me
 
 For the central question, feedback is a bridge because it appears at every level. It is present in chemical self-organization, biological regulation, neural processing, and reflective thought. The difference between non-conscious feedback and conscious experience may lie in how feedback becomes integrated, embodied, and recursively organized into a perspective.
 
----
+***
 
 ## Information Integration
 
@@ -205,7 +205,7 @@ The connection between information integration and self-organization is therefor
 
 IIT does not settle the question of whether consciousness precedes life or emerges from it. But it provides one possible language for describing how matter, life, and mind may be connected through increasingly integrated organization.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -223,7 +223,16 @@ The missing link may be perspective. Life creates bounded, self-maintaining syst
 
 The value of information, complexity, and self-organization is therefore not that they solve the hard problem. Their value is that they show how the gap between chemistry and consciousness may be narrowed. They describe the architecture of the bridge, even if they do not fully explain why experience appears on the bridge.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by examining the possibility that consciousness emerges from increasing complexity. Emergentist models suggest that life may come first, followed by nervous systems, cognition, and eventually subjective experience.
+
+The question therefore becomes: what kind of complexity is sufficient for consciousness? Mere complexity is not enough. The key issue is whether biological, neural, informational, or organizational complexity can explain why experience appears at all.
+
+***
+
 
 ## Chapter Summary
 

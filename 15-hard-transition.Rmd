@@ -8,7 +8,7 @@ This is not exactly the same as the hard problem of consciousness. The hard prob
 
 This chapter examines gradualist models, threshold models, developmental evidence, functional and phenomenal definitions of consciousness, and the implications of major contemporary theories. It argues that the hard transition remains one of the deepest unresolved problems in consciousness studies. We can identify many biological correlates of consciousness, but it remains difficult to say when information processing first became experience.
 
----
+***
 
 ## Stating the Problem Precisely
 
@@ -24,7 +24,7 @@ This creates an explanatory gap between function and phenomenology. A system may
 
 The hard transition problem therefore asks for more than a biological timeline. It asks for a principle. What marks the crossing from non-conscious life to conscious life?
 
----
+***
 
 ## Gradualism: Consciousness as a Continuum
 
@@ -46,7 +46,7 @@ Gradualism may be right that consciousness has no sharp boundary. But if the bou
 
 Gradualism makes the transition smoother, but it does not make it disappear.
 
----
+***
 
 ## Threshold Models: A Discrete Transition
 
@@ -70,7 +70,7 @@ Threshold models also face the zombie problem below threshold. If a system just 
 
 Threshold models make the transition clearer, but they must justify the boundary.
 
----
+***
 
 ## Developmental Perspectives
 
@@ -90,7 +90,7 @@ Developmental perspectives therefore support both gradualist and threshold inter
 
 This may also be true in evolution.
 
----
+***
 
 ## The Phenomenal vs the Functional
 
@@ -112,7 +112,7 @@ This does not make the scientific study of consciousness impossible. It means th
 
 The hard transition remains difficult because the functional and phenomenal transitions may not perfectly align.
 
----
+***
 
 ## How Major Theories Locate the Transition
 
@@ -224,7 +224,7 @@ This comparison shows why the hard transition problem is unresolved. There is no
 
 The transition depends on what consciousness is taken to be: access, integration, prediction, recurrence, self-modeling, embodiment, or subjective experience itself.
 
----
+***
 
 ## The Explanatory Gap and Its Implications
 
@@ -246,7 +246,7 @@ The hard transition problem therefore has practical as well as philosophical imp
 
 The explanatory gap does not stop inquiry. It defines the frontier of inquiry.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -266,7 +266,15 @@ This does not mean the problem is hopeless. It means that a complete account may
 
 For the central question, the hard transition is the crucial test of life-first theories. If life produced consciousness, then a theory must eventually explain how non-conscious life became conscious life. Until that transition is understood, the life-first answer remains powerful but incomplete.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by separating consciousness from intelligence, language, computation, and artificial performance. AI shows that a system may appear intelligent, conversational, goal-directed, or self-descriptive without clearly possessing sentience or subjective experience.
+
+The question is therefore no longer only whether consciousness came before life or emerged from life. It also becomes whether consciousness requires biological life, or whether the right kind of organization could support experience in non-biological systems. Artificial consciousness makes the life-consciousness question sharper by separating features that are usually combined in animals: intelligence, embodiment, agency, vulnerability, and felt experience.
+
+***
 
 ## Chapter Summary
 

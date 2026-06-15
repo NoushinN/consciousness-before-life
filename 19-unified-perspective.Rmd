@@ -10,7 +10,7 @@ This final chapter synthesizes the major arguments of the book. It reviews the t
 
 This position does not solve every problem. It does not eliminate the hard problem, prove consciousness in simple organisms, or replace origin-of-life chemistry with metaphysics. But it offers a framework that may avoid the most serious limitations of both strict emergentism and unrestricted consciousness-first theories.
 
----
+***
 
 ## Recapping the Three Positions
 
@@ -26,7 +26,7 @@ The third position is co-emergence. This position does not treat life and consci
 
 In the co-emergence view, the question is not simply “Which came first?” but “How do living organization and experiential interiority become entangled?” Consciousness may not be a late addition placed on top of life. It may be an intrinsic aspect of life when self-organization becomes sufficiently integrated, meaningful, and self-referential.
 
----
+***
 
 ## What Each Position Explains Well
 
@@ -44,7 +44,7 @@ Co-emergence also avoids the extremes of the other positions. It does not need t
 
 Each position therefore captures something important. Life-first explains biology. Consciousness-first explains interiority. Co-emergence explains continuity.
 
----
+***
 
 ## What Each Position Struggles With
 
@@ -62,7 +62,7 @@ Co-emergence also faces challenges of falsifiability. If consciousness is treate
 
 No position is complete. Life-first needs a bridge to subjectivity. Consciousness-first needs a bridge to biology. Co-emergence needs sharper criteria.
 
----
+***
 
 ## The Author's Position
 
@@ -99,7 +99,7 @@ What it cannot fully explain is why integrated living organization feels like an
 
 The author’s position is therefore not a final answer. It is a disciplined orientation: consciousness is most plausibly rooted in life’s self-organizing, meaning-making activity, and becomes explicit where that activity is integrated into a felt point of view.
 
----
+***
 
 ## Criteria for a Satisfying Answer
 
@@ -119,7 +119,7 @@ No current theory fully meets all these criteria. Global Workspace Theory explai
 
 The most satisfying answer may therefore be plural rather than singular. Consciousness may require biological self-organization, informational integration, embodied value, recurrent dynamics, and phenomenological interiority. No one level may be sufficient by itself.
 
----
+***
 
 ## The Role of Future Science
 
@@ -139,7 +139,7 @@ The important point is openness to revision. The framework proposed here is not 
 
 A serious theory must be strong enough to guide inquiry and humble enough to change.
 
----
+***
 
 ## Living With the Question
 
@@ -157,7 +157,13 @@ The question changes how we see the world. A bacterium is no longer merely a che
 
 Even if the final answer remains incomplete, the question expands perception. It invites care, humility, and wonder.
 
----
+***
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by bringing the major possibilities together. Life-first, consciousness-first, and co-emergence views are not only competing answers; they also reveal different dimensions of the problem.
+
+The final question is therefore not simply which side wins. It is whether a more complete framework can explain biological organization, subjective experience, embodiment, meaning, moral status, and testability without reducing one dimension to another. The central question remains open, but it becomes clearer: life and consciousness may need to be understood together rather than in isolation.
+***
 
 ## Chapter Summary
 

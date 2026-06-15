@@ -12,7 +12,7 @@ The central argument is that some versions of the life-consciousness question ma
 
 The goal is not certainty at any cost. The goal is disciplined inquiry under conditions of uncertainty.
 
----
+***
 
 ## The Measurement Problem for Consciousness
 
@@ -30,7 +30,7 @@ This is the classic problem of other minds. We infer that others are conscious b
 
 The measurement problem does not make consciousness scientifically inaccessible. It means that consciousness must be studied indirectly, through converging evidence. No single marker is enough. The challenge is to build a careful network of indicators while remembering that indicators are not the thing itself.
 
----
+***
 
 ## First-Person vs Third-Person Methods
 
@@ -52,7 +52,7 @@ The central challenge is integration. Third-person methods offer public measurem
 
 For the life-consciousness question, this matters because life can be studied externally, but consciousness cannot be fully reduced to external study. Any approach that ignores first-person evidence risks explaining behaviour without explaining experience.
 
----
+***
 
 ## Falsifiability and Consciousness Theories
 
@@ -72,7 +72,7 @@ However, empirical adjudication has limits. Theories often include core commitme
 
 For the central question, falsifiability matters because theories of life and consciousness can easily become too broad. A useful theory should not explain every possible outcome equally well. It should tell us what we should expect to find if the theory is right, and what would surprise us if it were wrong.
 
----
+***
 
 ## The Problem of Other Minds Applied to Life
 
@@ -94,7 +94,7 @@ Both approaches have value. Precaution prevents moral negligence. Parsimony prev
 
 For the relationship between life and consciousness, the other-minds problem sets a limit. We may never know with certainty whether simple living systems have experience. But we can still ask which assumptions are most coherent, humane, and scientifically fruitful.
 
----
+***
 
 ## Mathematical and Formal Approaches
 
@@ -114,7 +114,7 @@ Formalization is most valuable when it clarifies what a theory claims. It forces
 
 For the central question, mathematical approaches may help identify thresholds or continua between life and consciousness. They may help distinguish kinds of complexity, integration, feedback, or self-organization. But formalism alone cannot replace biological evidence, phenomenological insight, or philosophical clarity.
 
----
+***
 
 ## Interdisciplinary Challenges
 
@@ -134,7 +134,7 @@ The life-consciousness question may require a similar synthesis. It needs scient
 
 The challenge is not only to collect more facts. It is to create shared language.
 
----
+***
 
 ## What Would Count as Progress?
 
@@ -154,7 +154,7 @@ For the central question, meaningful progress would involve mapping the space be
 
 Progress may be partial, but partial progress matters.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -170,7 +170,15 @@ The question may be scientific in some forms, philosophical in others, and exist
 
 The best approach may therefore be pluralistic: empirical where possible, philosophical where necessary, and humble where neither is sufficient.
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that the life-consciousness relationship is not only theoretical. Different answers lead to different moral responsibilities. If consciousness is limited to complex nervous systems, moral concern may focus mainly on sentient animals. If consciousness is graded, widespread, or fundamental, the moral circle may need to become broader and more layered.
+
+The question therefore becomes practical: how should we act when we do not know exactly where consciousness begins? Ethics turns the book’s central question into a question of care, caution, and responsibility under uncertainty.
+
+***
 
 ## Chapter Summary
 

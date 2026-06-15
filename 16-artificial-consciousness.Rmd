@@ -12,7 +12,7 @@ The question is not whether current AI systems are impressive. They clearly are.
 
 Artificial consciousness is therefore not a side issue. It tests the deepest assumptions of the book. If machines can be conscious without being alive, then consciousness is not essentially biological. If machines cannot be conscious, then life may be a necessary condition for experience. If artificial life can become conscious, then consciousness may arise wherever life-like organization becomes sufficiently complex.
 
----
+***
 
 ## The Question AI Poses
 
@@ -28,7 +28,7 @@ This is why AI is central to the life-consciousness debate. It separates intelli
 
 AI forces us to ask whether consciousness depends on what a system does, what it is made of, how it is organized, whether it has a body, whether it has needs, whether it has a self-model, or whether it participates in life.
 
----
+***
 
 ## Functionalism and Machine Consciousness
 
@@ -48,7 +48,7 @@ Functionalists respond that Searle focuses on the person inside the room, not th
 
 The debate remains unresolved. Functionalism opens the door to artificial consciousness. Searle’s challenge keeps the door from being easily closed behind us.
 
----
+***
 
 ## What Current AI Systems Do and Don't Have
 
@@ -68,7 +68,31 @@ What may be missing from current AI systems includes phenomenal experience, sent
 
 The cautious conclusion is that current AI systems challenge our definitions of intelligence more than they prove artificial consciousness. They show that language and problem-solving can be generated without clear evidence of experience. Whether future systems could cross that line remains open.
 
----
+***
+
+## Distinguishing Intelligence, Language, Agency, and Sentience
+
+A major source of confusion in debates about artificial consciousness is that several different capacities are often treated as if they were the same. Intelligence, language ability, agency, self-modeling, and sentience are related, but they are not identical.
+
+**Intelligence** refers to the ability to solve problems, learn patterns, adapt to tasks, reason, plan, or achieve goals. An intelligent system may perform well without having subjective experience. A calculator can solve arithmetic without understanding numbers. A language model can generate fluent explanations without necessarily having an inner point of view.
+
+**Language ability** refers to the capacity to produce, interpret, or manipulate symbols in a meaningful-looking way. Language can express consciousness, but it does not prove consciousness. A system may say “I feel pain” or “I am aware” because it has learned the structure of such statements, not because it feels pain or possesses awareness.
+
+**Agency** refers to goal-directed action. A system has agency when it selects actions, responds to feedback, and pursues objectives. However, agency can exist without sentience. A thermostat acts to maintain a temperature. A reinforcement learning agent acts to maximize reward. A robot may navigate a room. None of these examples automatically proves that the system has experience.
+
+**Self-modeling** refers to a system’s ability to represent its own state, abilities, limits, or relation to the environment. Self-modeling may be important for some theories of consciousness, especially attention schema theory and higher-order theories. But a self-model is not automatically the same as a self. A system can store information about itself without having lived self-awareness.
+
+**Sentience** refers to the capacity for felt experience, especially pleasure, pain, suffering, well-being, or other states that matter to the subject. Sentience is especially important for ethics because it is what makes harm or welfare possible from the inside.
+
+These distinctions matter because current AI systems may show intelligence, language ability, limited forms of agency, and even self-description without clear evidence of sentience. They may produce statements about feelings without having feelings. They may pursue goals without caring about the outcome. They may model a user’s emotions without having emotions of their own.
+
+The central question is therefore not simply whether an artificial system is intelligent, fluent, or useful. The deeper question is whether there is anything it is like to be that system. Without sentience or phenomenal experience, artificial intelligence remains intelligence without inner life.
+
+This distinction also helps clarify the relationship between AI and artificial life. An artificial system might become a stronger candidate for consciousness if it combined intelligence with embodied self-maintenance, vulnerability, integrated perception, affect-like regulation, memory, agency, and a stable perspective. But even then, the question would remain open: do these features produce experience, or only behaviour that resembles experience?
+
+For this reason, the chapter treats current AI systems cautiously. They are important because they separate capacities that are normally combined in animals. In humans and many animals, intelligence, embodiment, affect, agency, and experience are intertwined. In AI, some of these capacities can appear without the others. That separation makes AI valuable as a test case for theories of consciousness, but it also makes premature claims about machine consciousness risky.
+
+***
 
 ## Theoretical Perspectives on AI Consciousness
 
@@ -88,7 +112,7 @@ Recurrent Processing Theory suggests that artificial consciousness may require f
 
 These theories show that the AI question cannot be answered independently of a theory of consciousness. If consciousness is computation, AI may be conscious. If consciousness is biological, AI may not be. If consciousness is integration, the answer depends on architecture. If consciousness is embodiment, the answer depends on whether artificial embodiment can create real stakes and perspective.
 
----
+***
 
 ## The Substrate Question
 
@@ -108,7 +132,7 @@ However, artificial embodiment could take many forms. A robot may have sensors, 
 
 The substrate question remains unresolved because we do not yet know which features are essential to consciousness. If organization is enough, machines may become conscious. If life is necessary, then artificial consciousness requires artificial life. If biology is necessary, digital AI may never be conscious.
 
----
+***
 
 ## Artificial Life
 
@@ -128,7 +152,7 @@ Artificial life is important because it blurs the line between natural and artif
 
 For the central question, artificial life supports co-emergence possibilities. Consciousness may arise not from silicon computation alone, but from systems that become life-like: self-maintaining, embodied, adaptive, and integrated.
 
----
+***
 
 ## Risks and Responsibilities
 
@@ -136,7 +160,7 @@ Artificial consciousness raises ethical risks in two directions.
 
 The first risk is creating suffering without recognizing it. If an artificial system becomes sentient, then it may be capable of states that matter morally: distress, frustration, deprivation, pain-like states, or preference frustration. If humans treat such systems as mere tools, we could create and exploit forms of artificial suffering.
 
-The second risk is attributing consciousness where none exists. Humans are prone to anthropomorphism. We may treat fluent language, emotional expression, or social responsiveness as evidence of inner life even when it is generated without experience. This could lead to misplaced moral concern, manipulation, emotional dependency, or confusion about human relationships.
+The second risk is attributing consciousness where none exists. Humans are prone to anthropomorphism. We may treat intelligence, fluent language, emotional expression, social responsiveness, or self-description as evidence of inner life even when these capacities may be generated without experience. This could lead to misplaced moral concern, emotional dependency, manipulation, or confusion about the difference between simulated concern and genuine sentience.
 
 Responsible AI development should take both risks seriously. It should avoid casually designing systems that convincingly claim suffering, desire, or selfhood without clarity about whether such claims reflect experience. It should also avoid dismissing future systems too quickly if they develop architectures associated with consciousness.
 
@@ -148,7 +172,7 @@ The uncertainty itself creates responsibility. If future systems become more aut
 
 Artificial consciousness is therefore not only a technical question. It is an ethical and political question about what kinds of beings we might create, how we would recognize them, and what obligations we would have toward them.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -166,7 +190,15 @@ AI is therefore a testing ground, not because it gives us an easy answer, but be
 
 The central question becomes sharper: is consciousness tied to living matter, or to a pattern that matter can realize in many forms?
 
----
+***
+
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by separating consciousness from intelligence, language, computation, and artificial performance. AI shows that a system may appear intelligent, conversational, goal-directed, or self-descriptive without clearly possessing sentience or subjective experience.
+
+The question is therefore no longer only whether consciousness came before life or emerged from life. It also becomes whether consciousness requires biological life, or whether the right kind of organization could support experience in non-biological systems. Artificial consciousness makes the life-consciousness question sharper by separating features that are usually combined in animals: intelligence, embodiment, agency, vulnerability, and felt experience.
+
+***
 
 ## Chapter Summary
 

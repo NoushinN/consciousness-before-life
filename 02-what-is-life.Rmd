@@ -10,7 +10,7 @@ If life is mainly chemistry, then consciousness may appear as a later biological
 
 The question “What is life?” is therefore not only biological. It is also philosophical, physical, informational, and perhaps even experiential.
 
----
+***
 
 ## Why Defining Life Is Hard
 
@@ -26,7 +26,7 @@ This matters for the central question of this book. If life is defined narrowly 
 
 The definition of life is therefore not neutral. It shapes the entire discussion that follows.
 
----
+***
 
 ## Biological Definitions
 
@@ -46,7 +46,7 @@ Each biological definition captures part of the truth. Life is chemical, metabol
 
 That organization becomes central when we turn to physics and thermodynamics.
 
----
+***
 
 ## Thermodynamic and Physical Definitions
 
@@ -64,7 +64,7 @@ This view narrows the distance between life and other forms of self-organization
 
 So something else is needed. Living systems do not merely process energy. They also store, transmit, and use information.
 
----
+***
 
 ## Informational Definitions
 
@@ -84,7 +84,7 @@ However, information alone is not enough. A book contains information, but it is
 
 This leads to a deeper definition: life as self-production.
 
----
+***
 
 ## Autopoietic Definitions
 
@@ -104,7 +104,7 @@ If this is true, then cognition is not a late addition to life. It is built into
 
 This view will become important in later chapters on self-organization, minimal cognition, and the possible continuity between life and mind.
 
----
+***
 
 ## Functional vs Ontological Definitions
 
@@ -124,7 +124,7 @@ The answer depends on what we mean by “really.” If life is defined by functi
 
 This debate foreshadows later questions about artificial consciousness. A machine may behave intelligently, but is it conscious? A system may simulate life, but is it alive? In both cases, we face the same challenge: whether function is enough, or whether there is something deeper about the organization, embodiment, or existence of the system.
 
----
+***
 
 ## Implications for the Central Question
 
@@ -147,7 +147,14 @@ A thermodynamic definition situates life within broader principles of organizati
 
 The central question therefore cannot be answered without first deciding what kind of phenomenon life is.
 
----
+***
+## How This Chapter Changes the Central Question
+
+This chapter changes the central question by showing that consciousness is not a single simple concept. It may refer to subjective experience, access to information, self-awareness, sentience, reflective thought, or a fundamental field-like reality.
+
+The question therefore cannot be answered until we are clear about which meaning of consciousness is being discussed. If consciousness means reportable awareness, it may appear late in evolution. If it means sentience, it may appear earlier. If it means a fundamental reality, it may not emerge from life at all.
+
+***
 
 ## Chapter Summary
 
