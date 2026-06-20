@@ -203,6 +203,12 @@ The ambition is not to solve the problem. The ambition is to state it clearly, t
 Noushin Nabavi
 
 ---
+## Citation
+If referencing this project, please cite: 
+Nabavi, N. *Life and Mind: Did Consciousness Precede Life or Emerge From It?*. 
+Bookdown project. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20763742.svg)](https://doi.org/10.5281/zenodo.20763742)
+
+---
 
 ## License
 

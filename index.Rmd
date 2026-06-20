@@ -98,3 +98,8 @@ I also acknowledge the importance of interdisciplinary thinking. No single field
 I am especially grateful to the researchers whose work has helped clarify the origin of life, the hard problem of consciousness, autopoiesis, basal cognition, emergence, artificial consciousness, and consciousness-first theories. Their ideas provided the foundation for this synthesis.
 
 Finally, I acknowledge the readers who approach difficult questions with patience, humility, and curiosity. This book is written for those willing to sit with uncertainty and consider that the deepest questions may not belong to one discipline alone.
+
+## Citation
+If referencing this project, please cite: 
+Nabavi, N. *Life and Mind: Did Consciousness Precede Life or Emerge From It?*. 
+[DOI](https://doi.org/10.5281/zenodo.20763742)

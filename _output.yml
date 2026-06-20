@@ -15,3 +15,7 @@ bookdown::pdf_book:
   citation_package: natbib
   includes:
     before_body: epigraph.tex
+
+bookdown::html_book:
+  includes:
+    in_header: google-analytics.html
